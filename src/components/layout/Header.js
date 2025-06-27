@@ -45,7 +45,8 @@ export default function Header({ locale, activeSection, onMobileMenuToggle, isMo
             {/* Logo */}
             <div className={`flex-shrink-0 mt-10 mb-3 ${pathname === '/' ? 'logo-animation' : ''}`}>
               <Link href={`/${locale ? locale : ''}`} className="flex items-center h-24">
-                <h3 className={'text-5xl text-white text-center font-bold'} style={{ fontFamily: 'CormorantSC' }}>N PLUS CAPITAL</h3>
+                <Image
+                  src="/images/logo.png" alt="Logo" width={150} height={150}></Image>
               </Link>
             </div>
 
@@ -85,10 +86,10 @@ export default function Header({ locale, activeSection, onMobileMenuToggle, isMo
           {/* Mobile Logo */}
           <Link href={`/${locale ? locale : ''}`} className="flex items-center">
             <Image
-              src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij4KCTxwYXRoIGZpbGw9IiNmZmYiIGQ9Ik0yMCAxMGExIDEgMCAxIDAtMiAwek02IDEwYTEgMSAwIDAgMC0yIDB6bTE0LjI5MyAyLjcwN2ExIDEgMCAwIDAgMS40MTQtMS40MTR6TTEyIDNsLjcwNy0uNzA3YTEgMSAwIDAgMC0xLjQxNCAwem0tOS43MDcgOC4yOTNhMSAxIDAgMSAwIDEuNDE0IDEuNDE0ek03IDIyaDEwdi0ySDd6bTEzLTN2LTloLTJ2OXpNNiAxOXYtOUg0djl6bTE1LjcwNy03LjcwN2wtOS05bC0xLjQxNCAxLjQxNGw5IDl6bS0xMC40MTQtOWwtOSA5bDEuNDE0IDEuNDE0bDktOXpNMTcgMjJhMyAzIDAgMCAwIDMtM2gtMmExIDEgMCAwIDEtMSAxek03IDIwYTEgMSAwIDAgMS0xLTFINGEzIDMgMCAwIDAgMyAzeiIgLz4KPC9zdmc+"
+              src="/images/logo.png"
               alt="Logo"
-              width={140}
-              height={50}
+              width={100}
+              height={100}
               className="h-8 sm:h-10 w-auto text-white"
             />
           </Link>
