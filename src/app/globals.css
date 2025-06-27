@@ -1,26 +1,136 @@
 @import "tailwindcss";
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
+@font-face {
+    font-family: "CormorantSC";
+    src: url("/CormorantSC.ttf") format("truetype");
+}
+.logo-animation {
+    animation: logoAnimation 5s  1s ease-in-out;
+    animation-fill-mode: backwards;
 }
 
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+@keyframes logoAnimation {
+    0% {
+        transform: scale(3) translateY(200%);
+    }
+    100% {
+        transform: scale(1);
+    }
+}
+.nav-in-animation {
+    animation: navAnimation 1s  6s ease-in-out;
+    animation-fill-mode: backwards;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+@keyframes navAnimation {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
 }
 
-body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+.HomeDecorationLeft {
+    animation: sideDecorationAnimationLeft 5s  1s ease-in-out;
+    animation-fill-mode: backwards;
 }
+
+@keyframes sideDecorationAnimationLeft {
+    0% {
+        transform: translateX(100%);
+    }
+    100% {
+        transform: translateX(0);
+    }
+}
+
+.HomeDecorationRight {
+    animation: sideDecorationAnimationRight 5s  1s ease-in-out;
+    animation-fill-mode: backwards;
+}
+
+@keyframes sideDecorationAnimationRight {
+    0% {
+        transform: translateX(-100%);
+    }
+    100% {
+        transform: translateX(0);
+    }
+}
+
+.titleEnterAnimation {
+    animation: titleEnterAnimation 3s  3s ease-in-out;
+    animation-fill-mode: backwards;
+}
+
+@keyframes titleEnterAnimation {
+    0% {
+        opacity: 0;
+        transform: translateY(300%);
+    }
+    100% {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.titleEnterAnimation2 {
+    animation: titleEnterAnimation2 1s  3s ease-in-out;
+    animation-fill-mode: backwards;
+}
+
+@keyframes titleEnterAnimation2 {
+    0% {
+        opacity: 0;
+        transform: translateY(100%);
+    }
+    100% {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.investment-bg {
+    background: transparent linear-gradient(180deg,#fff,#f0eddd) 0% 0% no-repeat padding-box;;
+}
+.video-mask {
+    mask: url("data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20xmlns:xlink='http://www.w3.org/1999/xlink'%20width='497'%20height='1080'%20viewBox='0%200%20497%201080'%3e%3cdefs%3e%3clinearGradient%20id='linear-gradient'%20x1='0.5'%20x2='0.5'%20y2='1'%20gradientUnits='objectBoundingBox'%3e%3cstop%20offset='0'%20stop-color='%23b28033'%20stop-opacity='0.502'/%3e%3cstop%20offset='0.261'%20stop-color='%23b28033'%20stop-opacity='0.6'/%3e%3cstop%20offset='0.468'%20stop-color='%23b28033'/%3e%3cstop%20offset='1'%20stop-color='%23ecbe7f'/%3e%3c/linearGradient%3e%3c/defs%3e%3cpath%20id='landing_diamond_left'%20data-name='landing%20diamond%20left'%20d='M248.5,0,497,540,248.5,1080,0,540Z'%20fill='url(%23linear-gradient)'/%3e%3c/svg%3e") no-repeat;
+}
+.family-bg {
+    background: url("/images/family-bg.png") no-repeat ;
+
+}
+.family-bg2 {
+    background: url("/images/bg-pic.jpg") no-repeat ;
+    background-size: 100%;
+}
+.family-box {
+    background: transparent linear-gradient(90deg,#b28033b3,#b2803300) 0% 0% no-repeat padding-box;
+}
+
+.responsibility-bg {
+    background: url("/images/responsibility.png") no-repeat center right -30%;
+}
+
+/* 添加到你的全局 CSS 文件中 */
+.animate-element {
+    opacity: 0;
+    transform: translateY(30px);
+    transition: opacity 0.6s ease-out, transform 0.6s ease-out;
+}
+
+.animate-element.animate-in {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+/* 为子元素添加延迟效果 */
+.animate-element:nth-child(1) { transition-delay: 0.1s; }
+.animate-element:nth-child(2) { transition-delay: 0.2s; }
+.animate-element:nth-child(3) { transition-delay: 0.3s; }
+.animate-element:nth-child(4) { transition-delay: 0.4s; }
+.animate-element:nth-child(5) { transition-delay: 0.5s; }
+.animate-element:nth-child(6) { transition-delay: 0.6s; }
+.animate-element:nth-child(7) { transition-delay: 0.7s; }
+.animate-element:nth-child(8) { transition-delay: 0.8s; }

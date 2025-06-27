@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 120">
+    <defs>
+        <style>
+            .title-text {
+                font-family: 'CormorantSC', 'Futura', Arial, Helvetica, sans-serif;
+                font-size: 56px;
+                font-weight: 700;
+                fill: #fff;
+                letter-spacing: 3px;
+                font-variant-ligatures: none;
+            }
+        </style>
+    </defs>
+    <text x="50" y="70"
+          class="title-text">
+        N Plus Capital
+    </text>
+</svg>

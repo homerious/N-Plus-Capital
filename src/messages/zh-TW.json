@@ -1,0 +1,31 @@
+{
+  "meta": {
+    "title": "N Plus Capital Limited",
+    "description": "N Plus Capital Limited"
+  },
+  "nav": {
+    "about": "關於裕承",
+    "assetManagement": "資產管理",
+    "familyGovernance": "家族治理",
+    "socialResponsibility": "社會責任",
+    "managementTeam": "管理團隊",
+    "contact": "聯絡"
+  },
+  "home": {
+    "sloganZh": "專業審慎，客戶為本",
+    "sloganEn": "Professional Excellence, Client First"
+  },
+  "footer": {
+    "address": "地址",
+    "contact": "聯絡",
+    "socialMedia": "社交媒體",
+    "content": {
+      "addressNameZh": "裕承家族辦公室",
+      "addressDetailZh": "香港鰂魚涌英皇道728號K11 ATELIER 901-02室",
+      "addressNameEn": "N Plus Capital Limited",
+      "addressDetailEn": "Rm 04C, 15/F, Sunwise Industrial Building, 16-26 Wang Wo Tsai Street, Tsuen Wan, Hong Kong",
+      "email":"info@npluscapital.com",
+      "LinkedIn":"https://www.linkedin.com/company/artafo"
+    }
+  }
+}
