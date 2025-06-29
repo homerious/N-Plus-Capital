@@ -3,7 +3,8 @@
 import Image from "next/image";
 import { getMessages } from "@/lib/i18n";
 
-export default function Advantages({ locale }) {
+export default function Advantages({ params }) {
+  const locale = params.locale;
   const messages = getMessages(locale);
   const advantagesMsg = messages.advantages;
 

@@ -6,6 +6,7 @@ import { getMessages } from '@/lib/i18n'
 
 export default function Footer({ locale }) {
   const messages = getMessages(locale)
+  const footerMsg = messages.footer
 
   const scrollToTop = () => {
     window.scrollTo({
@@ -21,8 +22,8 @@ export default function Footer({ locale }) {
         <div className="contact-line flex flex-col lg:flex-row text-white gap-8 sm:gap-12 lg:gap-60">
           {/* Address */}
           <div className="contact-box flex-1">
-            <div className="text-2xl sm:text-3xl mb-1">地址</div>
-            <div className="text-lg sm:text-xl mb-4 lg:mb-8">ADDRESS</div>
+            <div className="text-2xl sm:text-3xl mb-1">{footerMsg.address.title}</div>
+            <div className="text-lg sm:text-xl mb-4 lg:mb-8">{footerMsg.address.titleEn}</div>
 
             <a
               className="content text-[#593725] block mb-4 lg:mb-8 hover:underline transition-all duration-200"
@@ -31,8 +32,8 @@ export default function Footer({ locale }) {
               rel="noopener noreferrer"
             >
               <div className="text-base sm:text-lg leading-relaxed">
-                N Plus Capital Limited<br />
-                香港荃湾横窝仔街16-26号顺力工业大厦15楼04C室
+                {footerMsg.address.companyName}<br />
+                {footerMsg.address.addressLocal}
               </div>
             </a>
 
@@ -43,16 +44,16 @@ export default function Footer({ locale }) {
               rel="noopener noreferrer"
             >
               <div className="text-sm sm:text-base leading-relaxed max-w-xs lg:max-w-none">
-                {messages.footer.content.addressNameEn} <br />
-                {messages.footer.content.addressDetailEn}
+                {footerMsg.address.companyNameEn} <br />
+                {footerMsg.address.addressEn}
               </div>
             </a>
           </div>
 
           {/* Contact */}
           <div className="contact-box flex-1">
-            <div className="text-2xl sm:text-3xl mb-1">聯絡</div>
-            <div className="text-lg sm:text-xl mb-4 lg:mb-8">CONTACT</div>
+            <div className="text-2xl sm:text-3xl mb-1">{footerMsg.contact.title}</div>
+            <div className="text-lg sm:text-xl mb-4 lg:mb-8">{footerMsg.contact.titleEn}</div>
 
             <div className="content img-content flex gap-3 items-center text-[#593725]">
               <svg
@@ -70,25 +71,26 @@ export default function Footer({ locale }) {
                 />
               </svg>
               <a
-                href="mailto:inquiry@artafo.com"
+                href={`mailto:${footerMsg.contact.email}`}
                 className="text-sm sm:text-base hover:underline transition-all duration-200 break-all"
               >
-                {messages.footer?.content?.email || 'inquiry@artafo.com'}
+                {footerMsg.contact.email}
               </a>
             </div>
           </div>
 
           {/* Social Media */}
           <div className="contact-box flex-1 lg:flex-initial hidden" >
-            <div className="text-2xl sm:text-3xl mb-1">社交媒體</div>
-            <div className="text-lg sm:text-xl mb-4 lg:mb-8">SOCIAL MEDIA</div>
+            <div className="text-2xl sm:text-3xl mb-1">{footerMsg.socialMedia.title}</div>
+            <div className="text-lg sm:text-xl mb-4 lg:mb-8">{footerMsg.socialMedia.titleEn}</div>
 
             <div className="flex gap-4">
               <a
-                href={messages.footer?.content?.LinkedIn || '#'}
+                href={footerMsg.socialMedia.linkedin}
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-block"
+                aria-label={footerMsg.socialMedia.linkedinLabel}
               >
                 <svg
                   id="linkedin_icon"
@@ -125,16 +127,16 @@ export default function Footer({ locale }) {
         <div className="flex flex-col sm:flex-row justify-between items-center gap-4 sm:gap-0 text-sm sm:text-base">
           <div className="left order-2 sm:order-1">
             <span className="cursor-pointer hover:underline transition-all duration-200">
-              Terms of Use
+              {footerMsg.legal.termsOfUse}
             </span>
             <span className="mx-2 text-white/60">丨</span>
             <span className="cursor-pointer hover:underline transition-all duration-200">
-              Privacy Policy
+              {footerMsg.legal.privacyPolicy}
             </span>
           </div>
           <div className="right order-1 sm:order-2 text-center sm:text-right">
             <span className="text-xs sm:text-sm lg:text-base">
-              © N Plus Capital Limited. All rights reserved.
+              {footerMsg.legal.copyright}
             </span>
           </div>
         </div>
@@ -143,7 +145,7 @@ export default function Footer({ locale }) {
         <button
           onClick={scrollToTop}
           className=" hidden lg:hidden fixed bottom-6 right-6 w-12 h-12 bg-[#ab9064] text-white rounded-full shadow-lg hover:bg-[#9a7f57] transition-all duration-200 z-40 flex items-center justify-center"
-          aria-label="回到顶部"
+          aria-label={footerMsg.backToTop}
         >
           <svg
             width="20"

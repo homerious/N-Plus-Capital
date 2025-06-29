@@ -4,25 +4,41 @@
 import { useEffect } from 'react'
 import { usePathname } from 'next/navigation'
 import Link from 'next/link'
-import { getMessages } from '@/lib/i18n'
+import { getMessages, defaultLocale } from '@/lib/i18n'
 import LanguageSwitcher from '@/components/common/LanguageSwitcher'
 
 export default function MobileMenu({ isOpen, onClose, locale, activeSection }) {
   const pathname = usePathname()
   const messages = getMessages(locale)
+  const mobileMenuMsg = messages.mobileMenu
+
+  // 构建带语言前缀的链接
+  const buildLocalizedHref = (path) => {
+    if (locale === defaultLocale) {
+      return path
+    }
+    return `/${locale}${path}`
+  }
 
   const menuItems = [
-    { id: 'about', label: '關於我們', href: '/about' },
-    { id: 'business', label: '業務領域', href: '/business' },
-    { id: 'advantage', label: '核心優勢', href: '/advantage' },
-    { id: 'qualification', label: '資質認證', href: '/qualification' },
-    { id: 'strength', label: '實力展現', href: '/strength' },
-    { id: 'team', label: '專業團隊', href: '/team' },
-    { id: 'contact', label: '聯絡我們', href: '/contact' }
+    { id: 'about', label: messages.header.nav.about, href: buildLocalizedHref('/about') },
+    { id: 'business', label: messages.header.nav.business, href: buildLocalizedHref('/business') },
+    { id: 'advantage', label: messages.header.nav.advantage, href: buildLocalizedHref('/advantage') },
+    { id: 'qualification', label: messages.header.nav.qualification, href: buildLocalizedHref('/qualification') },
+    { id: 'strength', label: messages.header.nav.strength, href: buildLocalizedHref('/strength') },
+    { id: 'team', label: messages.header.nav.team, href: buildLocalizedHref('/team') },
+    { id: 'contact', label: messages.header.nav.contact, href: buildLocalizedHref('/contact') }
   ]
 
   // 检查是否在首页
-  const isHomePage = pathname === '/' || pathname === `/${locale}`
+  const isHomePage = pathname === '/' || pathname === `/${locale}` || pathname === `/${locale}/`
+
+  // 检查当前页面是否匹配菜单项
+  const isCurrentPage = (href) => {
+    const normalizedPathname = pathname.replace(/\/$/, '') || '/'
+    const normalizedHref = href.replace(/\/$/, '') || '/'
+    return normalizedPathname === normalizedHref
+  }
 
   // 防止背景滚动
   useEffect(() => {
@@ -48,7 +64,7 @@ export default function MobileMenu({ isOpen, onClose, locale, activeSection }) {
 
   return (
     <div
-      className="lg:hidden fixed inset-0 z-40 bg-black/50 backdrop-blur-sm"
+      className="lg:hidden fixed inset-0 z-40 bg-black/50 backdrop-blur-sm "
       onClick={handleBackdropClick}
     >
       {/* 菜单面板 */}
@@ -65,7 +81,7 @@ export default function MobileMenu({ isOpen, onClose, locale, activeSection }) {
                   href={item.href}
                   onClick={onClose}
                   className={`block px-4 py-4 text-lg font-medium rounded-lg transition-all duration-200 ${
-                    pathname === item.href
+                    isCurrentPage(item.href)
                       ? 'bg-white/20 text-white'
                       : 'text-white/90 hover:bg-white/10 hover:text-white'
                   } ${
@@ -79,7 +95,7 @@ export default function MobileMenu({ isOpen, onClose, locale, activeSection }) {
                 >
                   <div className="flex items-center justify-between">
                     <span>{item.label}</span>
-                    {(pathname === item.href || (isHomePage && activeSection === item.id)) && (
+                    {(isCurrentPage(item.href) || (isHomePage && activeSection === item.id)) && (
                       <div className="w-2 h-2 bg-white rounded-full" />
                     )}
                   </div>
@@ -92,14 +108,17 @@ export default function MobileMenu({ isOpen, onClose, locale, activeSection }) {
           <div className="px-6 py-6 border-t border-white/20">
             {/* 语言切换器 */}
             <div className="mb-4">
-              <div className="text-white/70 text-sm mb-2">語言 / Language</div>
-              <LanguageSwitcher locale={locale} />
+              <div className="text-white/70 text-sm mb-2">{mobileMenuMsg.languageLabel}</div>
+              {/* 修改语言切换器样式，确保下拉菜单可见 */}
+              <div className="relative z-50">
+                <LanguageSwitcher currentLocale={locale} isMobile={true}/>
+              </div>
             </div>
 
             {/* 联系信息或其他内容 */}
             <div className="text-white/60 text-sm">
-              <div className="mb-2">© 2024 裕承家族辦公室</div>
-              <div>All rights reserved</div>
+              <div className="mb-2">{mobileMenuMsg.copyright}</div>
+              <div>{mobileMenuMsg.allRightsReserved}</div>
             </div>
           </div>
         </div>

@@ -1,1 +1,857 @@
-{}
+{
+  "meta": {
+    "title": "N Plus Capital Limited",
+    "description": "N Plus Capital Limited"
+  },
+  "header": {
+    "logoAlt": "公司标志",
+    "mobileMenuToggle": "切换手机菜单",
+    "nav": {
+      "about": "关于我们",
+      "business": "业务领域",
+      "advantage": "核心优势",
+      "qualification": "资质认证",
+      "strength": "实力展现",
+      "team": "专业团队",
+      "contact": "联系我们"
+    }
+  },
+  "mobileMenu": {
+    "languageLabel": "语言 / Language",
+    "copyright": "© 2025 N Plus Capital Limited",
+    "allRightsReserved": "All rights reserved"
+  },
+  "home": {
+    "hero": {
+      "sloganZh": "立足香港，服务全球",
+      "sloganEn": "Based in Hong Kong, Serving the World"
+    },
+    "decorations": {
+      "topLeft": "左上装饰",
+      "topRight": "右上装饰",
+      "diamond": "钻石图案",
+      "investment": "投资图案",
+      "organicShape": "有机形状"
+    },
+    "about": {
+      "title": "关于我们",
+      "titleEn": "ABOUT US",
+      "description": "立足香港国际金融中心，专业持牌资产管理机构，凭借严格合规运营与专业投资能力，致力为客户创造长期稳健投资回报\n\n以数据驱动专业投资，用制度保障客户资产，为每一位投资者打造值得信赖的数字财富平台。",
+      "learnMore": "了解更多"
+    },
+    "business": {
+      "title": "业务领域",
+      "titleEn": "BUSINESS SCOPE",
+      "description": "我们提供全方位专业投资管理服务，涵盖资产管理、证券咨询与投资策略制定，从专业分析到资产配置，为您的财富增值保驾护航。我们秉承价值投资理念，基于深度市场研究与风险控制，构建多元化投资组合，追求长期稳健回报与资产保值增值目标",
+      "items": {
+        "ipo": "新股申购",
+        "privateEquity": "私募股权投资",
+        "etf": "ETF",
+        "currentFinance": "活期理财"
+      },
+      "learnMore": "了解更多"
+    },
+    "advantage": {
+      "title": "核心优势",
+      "titleEn": "CORE ADVANTAGES",
+      "description": "汇聚资深专业团队，严格合规运营机制，量身定制投资方案，多元化服务能力，以专业实力助力客户实现稳健财富增值目标\n\n我们不只服务客户，更经营长期信任关系\nN Plus Capital 的服务定位并非\"客服中心\"，而是\"财富安全的守门人\"。\n我们始终相信：真正优秀的金融服务，不是包装出来的，是制度、透明度与陪伴感共同塑造的。",
+      "learnMore": "了解更多"
+    },
+    "qualification": {
+      "title": "资质认证",
+      "titleEn": "QUALIFICATIONS & CERTIFICATIONS",
+      "description": "持有香港证监会SFC第4类及第9类正规牌照，严格遵循监管要求，建立完善合规体系，为客户投资安全提供坚实法律保障。我们建立了专业规范的服务流程体系，确保投资决策透明高效，从客户需求分析到投资执行监控，提供全程专业服务",
+      "learnMore": "了解更多"
+    },
+    "strength": {
+      "title": "实力展现",
+      "titleEn": "STRENGTH SHOWCASE",
+      "stats": {
+        "clients": {
+          "number": "5000+",
+          "label": "服务客户"
+        },
+        "assets": {
+          "number": "50亿+",
+          "label": "管理资产"
+        },
+        "experience": {
+          "number": "5年+",
+          "label": "行业经验"
+        }
+      },
+      "description": "我们的管理资产规模持续稳健增长，服务涵盖机构投资者与高净值个人客户，在香港资产管理市场建立良好声誉与专业地位\n\n凭借专业团队与严谨投资流程，为客户创造长期价值，成为值得信赖的财富管理伙伴。",
+      "learnMore": "了解更多"
+    }
+  },
+  "about": {
+    "hero": {
+      "title": "关于我们",
+      "titleEn": "ABOUT US",
+      "description": "立足香港国际金融中心，专业持牌资产管理机构，凭借严格合规运营与专业投资能力，致力为客户创造长期稳健投资回报"
+    },
+    "decorations": {
+      "leftSide": "装饰元素左侧",
+      "rightSide": "装饰元素右侧"
+    },
+    "overview": {
+      "title": "公司概况",
+      "titleEn": "COMPANY OVERVIEW",
+      "companyInfo": {
+        "name": {
+          "value": "N Plus Capital Limited",
+          "label": "公司全称"
+        },
+        "license": {
+          "value": "SFC 第4类及第9类牌照",
+          "label": "监管牌照"
+        },
+        "history": {
+          "value": "2017年至今",
+          "label": "营运历史"
+        }
+      },
+      "description": "N Plus Capital Limited 是一家立足香港国际金融中心的专业持牌资产管理机构，持有香港证券及期货事务监察委员会（SFC）第4类（就证券提供意见）及第9类（资产管理）牌照，凭借严格合规运营与专业投资能力，致力为客户创造长期稳健投资回报。"
+    },
+    "mission": {
+      "title": "公司使命",
+      "titleEn": "MISSION",
+      "highlight": "以数据驱动专业投资，用制度保障客户资产，为每一位投资者打造值得信赖的数字财富平台。",
+      "description": "N Plus Capital 的使命，是通过严谨的产品筛选机制、智能化的风险管理系统、以及由第三方保险承保的资金保障体系，为客户提供安全、高效、稳健的投资服务。",
+      "commitment": "我们致力于让投资回归本质，让信任成为资本流动的基础。"
+    },
+    "vision": {
+      "title": "公司愿景",
+      "titleEn": "VISION",
+      "highlight": "成为亚洲领先的数字资产管理平台，让优质金融服务普及到每一位用户手中。",
+      "description": "我们期望通过科技与专业的融合，打破金融壁垒，让资本配置不再专属于少数人；我们相信，普惠、透明、可验证的金融服务，才能真正实现客户与平台的双向成长。"
+    },
+    "values": {
+      "title": "核心价值观",
+      "titleEn": "CORE VALUES",
+      "items": [
+        {
+          "title": "专业审慎",
+          "description": "每一款产品均由金融专家评估，并建立风控逻辑，不盲目追求高收益。我们的团队拥有多元背景，以专业能力构建客户信任。",
+          "iconPath": "M9 19v-6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2a2 2 0 002-2zm0 0V9a2 2 0 012-2h2a2 2 0 012 2v10m-6 0a2 2 0 002 2h2a2 2 0 002-2m0 0V5a2 2 0 012-2h2a2 2 0 012 2v14a2 2 0 01-2 2h-2a2 2 0 01-2-2z"
+        },
+        {
+          "title": "稳健安全",
+          "description": "系统严格执行身份验证、交易控制、资金托管及保险机制。引入太平洋保险公司为每款产品提供真实有效的风险承保。",
+          "iconPath": "M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z"
+        },
+        {
+          "title": "合规透明",
+          "description": "遵守金融监管规定，保障用户数据与资金安全，做到清晰可查、合理可控。全流程遵循KYC与AML规范。",
+          "iconPath": "M3 6l3 1m0 0l-3 9a5.002 5.002 0 006.001 0M6 7l3 9M6 7l6-2m6 2l3-1m-3 1l-3 9a5.002 5.002 0 006.001 0M18 7l3 9m-3-9l-6-2m0-2v2m0 16V5m0 16H9m3 0h3"
+        },
+        {
+          "title": "客户为本",
+          "description": "以用户利益为中心设计流程与产品，确保体验与保障并行。不浮夸、不误导，只提供真实可查、风险可控的投资选项。",
+          "iconPath": "M17 20h5v-2a3 3 0 00-5.356-1.857M17 20H7m10 0v-2c0-.656-.126-1.283-.356-1.857M7 20H2v-2a3 3 0 015.356-1.857M7 20v-2c0-.656.126-1.283.356-1.857m0 0a5.002 5.002 0 019.288 0M15 7a3 3 0 11-6 0 3 3 0 016 0zm6 3a2 2 0 11-4 0 2 2 0 014 0zM7 10a2 2 0 11-4 0 2 2 0 014 0z"
+        },
+        {
+          "title": "数据为本",
+          "description": "从产品筛选、风控模型、投资配置，到客户资金的托管与监控，每一个决策都基于详实数据、市场洞察与专业判断。",
+          "iconPath": "M16 8v8m-4-5v5m-4-2v2m-2 4h12a2 2 0 002-2V6a2 2 0 00-2-2H6a2 2 0 00-2 2v12a2 2 0 002 2z"
+        },
+        {
+          "title": "共同成长",
+          "description": "我们不仅是一个投资平台，更是客户长期财富成长的伙伴。陪伴用户穿越市场周期，实现资产的长期稳健增长。",
+          "iconPath": "M13 7h8m0 0v8m0-8l-8 8-4-4-6 6"
+        }
+      ]
+    }
+  },
+  "advantages": {
+    "hero": {
+      "title": "核心优势",
+      "titleEn": "CORE ADVANTAGES",
+      "description": "汇聚资深专业团队，严格合规运营机制，量身定制投资方案，多元化服务能力，以专业实力助力客户实现稳健财富增值目标"
+    },
+    "decorations": {
+      "leftSide": "装饰元素左侧",
+      "rightSide": "装饰元素右侧"
+    },
+    "coreAdvantages": {
+      "title": "核心优势",
+      "titleEn": "CORE ADVANTAGES",
+      "items": [
+        {
+          "title": "专业授权型资产配置能力",
+          "description": "由经验丰富的资产管理者主导投资策略，提供专业的投资组合管理服务",
+          "iconPath": "M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"
+        },
+        {
+          "title": "正规牌照与合规机制",
+          "description": "SFC 授权，第4类和第9类牌照 + 专职负责人，确保合规运营",
+          "iconPath": "M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z"
+        },
+        {
+          "title": "高层团队背景雄厚",
+          "description": "管理团队具备香港资管行业多年从业经验及市场资源",
+          "iconPath": "M17 20h5v-2a3 3 0 00-5.356-1.857M17 20H7m10 0v-2c0-.656-.126-1.283-.356-1.857M7 20H2v-2a3 3 0 015.356-1.857M7 20v-2c0-.656.126-1.283.356-1.857m0 0a5.002 5.002 0 019.288 0M15 7a3 3 0 11-6 0 3 3 0 016 0zm6 3a2 2 0 11-4 0 2 2 0 014 0zM7 10a2 2 0 11-4 0 2 2 0 014 0z"
+        },
+        {
+          "title": "多元化服务能力",
+          "description": "涵盖股票投资、资产管理、投资策略制定与合规咨询",
+          "iconPath": "M19 11H5m14 0a2 2 0 012 2v6a2 2 0 01-2 2H5a2 2 0 01-2-2v-6a2 2 0 012-2m14 0V9a2 2 0 00-2-2M5 11V9a2 2 0 012-2m0 0V5a2 2 0 012-2h6a2 2 0 012 2v2M7 7h10"
+        }
+      ]
+    },
+    "platformAdvantages": {
+      "title": "平台服务优势",
+      "titleEn": "PLATFORM SERVICE ADVANTAGES",
+      "items": [
+        "多样化产品线，满足不同风险等级与流动性需求",
+        "产品全程专业风控审查，且均由太平洋保险公司承保",
+        "提供客户资产报告、在线顾问、定期市场回顾与组合建议",
+        "提供法人税务、资金路径、委托结构等配置咨询服务"
+      ],
+      "trustTitle": "我们相信，信任是长期合作的开始",
+      "trustDescription": "N Plus Capital 不追求短期营销转化，而专注为每一位客户提供可持续、可验证的资产成长路径。"
+    },
+    "customerService": {
+      "title": "客户服务特色",
+      "titleEn": "CUSTOMER SERVICE FEATURES",
+      "subtitle": "N Plus Capital 客户服务的 6 大核心优势",
+      "features": [
+        {
+          "title": "高效响应｜专业客服团队每日在线",
+          "features": [
+            "提供每日 09:00–23:00 真人在线服务，不分节假日",
+            "支援多语系（中文简体、繁体、英文），贴合亚洲客户习惯",
+            "客户问题平均回应时间 < 3 分钟，确保不让投资等待"
+          ]
+        },
+        {
+          "title": "一对一专属顾问制度",
+          "features": [
+            "对接高净值客户与企业法人，提供专属顾问服务",
+            "可预约线上资产诊断会议，分析产品组合与资金配置",
+            "顾问可协助准备投前文件、产品保单编号、合规资料等"
+          ]
+        },
+        {
+          "title": "全流程投资协助",
+          "features": [
+            "从开户、实名认证、储值、建仓、提领，每一步均有完整图解与操作说明",
+            "设置常见问题中心（FAQ），解决超过 95% 用户常见疑问"
+          ]
+        },
+        {
+          "title": "安全透明的账户系统",
+          "features": [
+            "用户可实时查看：资金明细、交易记录、冻结状态与保单文件",
+            "提领、转账、建仓均有系统提醒 + 操作确认机制",
+            "每一笔操作都由系统+人工复核，确保无误"
+          ]
+        },
+        {
+          "title": "资料保障与客户隐私机制",
+          "features": [
+            "所有个人与投资资料均加密储存，平台执行最小权限机制",
+            "用户可申请资料停用、冻结或删除，系统依法处理并回馈处理记录",
+            "交易数据与身份资料分层管理，定期接受第三方稽核与合规评估"
+          ]
+        },
+        {
+          "title": "保险承保 × 风控双重保障支持",
+          "features": [
+            "所有产品上线前完成风控建模 + 太平洋保险公司真实保单承保",
+            "客户可通过客服索取承保证明、资金投放说明与保险文件",
+            "若遇非用户责任系统问题，平台承诺主动协助申请理赔支持"
+          ]
+        }
+      ],
+      "philosophyTitle": "我们不只服务客户，更经营长期信任关系",
+      "philosophyDescription1": "N Plus Capital 的服务定位并非「客服中心」，而是「财富安全的守门人」。",
+      "philosophyDescription2": "我们始终相信：真正优秀的金融服务，不是包装出来的，是制度、透明度与陪伴感共同塑造的。"
+    }
+  },
+  "investment": {
+    "hero": {
+      "title": "业务领域",
+      "titleEn": "BUSINESS AREAS",
+      "description": "提供全方位专业投资管理服务，涵盖资产管理、证券咨询与投资策略制定，从专业分析到资产配置，为您的财富增值保驾护航。我们秉承价值投资理念，基于深度市场研究与风险控制，构建多元化投资组合，追求长期稳健回报与资产保值增值目标"
+    },
+    "decorations": {
+      "leftSide": "装饰元素左侧",
+      "rightSide": "装饰元素右侧"
+    },
+    "coreBusiness": {
+      "title": "核心业务",
+      "titleEn": "CORE BUSINESS",
+      "items": [
+        {
+          "title": "资产管理",
+          "description": "专注于股票投资及资产配置，按投资授权进行组合管理，提供专业的投资组合构建服务",
+          "iconPath": "M9 19v-6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2a2 2 0 002-2zm0 0V9a2 2 0 012-2h2a2 2 0 012 2v10m-6 0a2 2 0 002 2h2a2 2 0 002-2m0 0V5a2 2 0 012-2h2a2 2 0 012 2v14a2 2 0 01-2 2h-2a2 2 0 01-2-2z"
+        },
+        {
+          "title": "证券咨询",
+          "description": "提供证券及衍生工具的投资建议服务（第4类牌照），为客户提供专业的投资咨询",
+          "iconPath": "M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"
+        },
+        {
+          "title": "投资策略",
+          "description": "透过投资顾问团队，结合研究、市场分析与客户授权，提供量身定制服务",
+          "iconPath": "M9 12l2 2 4-4M7.835 4.697a3.42 3.42 0 001.946-.806 3.42 3.42 0 014.438 0 3.42 3.42 0 001.946.806 3.42 3.42 0 013.138 3.138 3.42 3.42 0 00.806 1.946 3.42 3.42 0 010 4.438 3.42 3.42 0 00-.806 1.946 3.42 3.42 0 01-3.138 3.138 3.42 3.42 0 00-1.946.806 3.42 3.42 0 01-4.438 0 3.42 3.42 0 00-1.946-.806 3.42 3.42 0 01-3.138-3.138 3.42 3.42 0 00-.806-1.946 3.42 3.42 0 010-4.438 3.42 3.42 0 00.806-1.946 3.42 3.42 0 013.138-3.138z"
+        }
+      ]
+    },
+    "investmentAreas": {
+      "title": "具体投资领域",
+      "titleEn": "DIVERSIFIED INVESTMENT STRATEGIES",
+      "description": "N Plus Capital 专注于多元化、稳健型资产配置，以「股权成长 + 收益管理」为核心策略，为客户提供穿越周期的长期投资机会。我们的团队结合市场趋势与风险控制模型，重点聚焦以下四大投资方向：",
+      "areas": [
+        {
+          "title": "新股申购与股权打新",
+          "subtitle": "Pre-IPO Allocation",
+          "description": "我们紧密对接境内外交易所的 IPO 上市流程，专注于已通过上市辅导的优质企业，参与其打新或私募前轮投资。",
+          "features": [
+            "涵盖港股、美股、A 股等主流资本市场",
+            "目标企业具明确上市排期或保荐资格",
+            "利用低配高爆发潜力，获取稀缺性股权红利"
+          ]
+        },
+        {
+          "title": "PIPE 结构化定向增发基金",
+          "subtitle": "Private Investment in Public Equity",
+          "description": "通过结构化 PIPE 项目，提前进入上市企业的定向增发轮，结合套利对冲机制实现中短期收益。",
+          "features": [
+            "适合高净值客户与进阶投资者",
+            "可配置回购条款、转让机制、固定收益底仓等结构",
+            "实现「控制风险前提下锁定年化回报」"
+          ]
+        },
+        {
+          "title": "ETF 固定收益类配置",
+          "subtitle": "Exchange-Traded Fund Allocation",
+          "description": "平台精选低波动、高流动性的指数型 ETF，适合长期持有、稳健增长的客户资产配置。",
+          "features": [
+            "投资组合由专业量化团队设定跟踪标的",
+            "可作为客户资金「基础仓」或对冲资产波动的工具",
+            "与活期理财账户结合使用，提升资金整体效率"
+          ]
+        },
+        {
+          "title": "活期理财账户",
+          "subtitle": "Flexible Wealth Management",
+          "description": "提供每日收益可观、无锁定期的活期产品，适合资金调度、短期存放或低风险增值需求。",
+          "features": [
+            "支持随存随取，收益按日复利结算",
+            "配合平台打新或 PIPE 投资使用，实现资金调配效率最大化",
+            "系统自动结息、透明可查"
+          ]
+        }
+      ],
+      "advantagesTitle": "投资优势与原则",
+      "advantages": [
+        "所有产品上线前，皆由平台专业团队评估项目背景、财务模型与风险因子",
+        "每一档产品均取得太平洋保险公司真实承保，平台承担兜底责任范围",
+        "严格落实资金托管、风控分层、复核交易、双通道提领等机制",
+        "支持灵活组合配置：客户可按资金流动性需求，自由切换不同产品仓位"
+      ]
+    },
+    "clientTypes": {
+      "title": "服务客户类型",
+      "titleEn": "WHO WE SERVE",
+      "description": "N Plus Capital 以「专业金融产品 + 高标准安全保障 + 灵活流动配置」为基础，致力于服务以下四类对资产配置与稳健增值有明确需求的客户族群：",
+      "types": [
+        {
+          "title": "初阶理财用户",
+          "goal": "目标：安全起步、灵活储值、低门槛参与",
+          "characteristics": [
+            "对金融产品经验有限，期望简单上手",
+            "希望闲置资金能有日常收益",
+            "重视资金流动性、不愿承担大额风险",
+            "多使用活期理财、ETF 配置等低风险产品组合"
+          ],
+          "recommendLabel": "推荐产品",
+          "recommendedProducts": "活期理财账户、基础 ETF 策略组合",
+          "iconPath": "M16 7a4 4 0 11-8 0 4 4 0 018 0zM12 14a7 7 0 00-7 7h14a7 7 0 00-7-7z"
+        },
+        {
+          "title": "稳健型投资者",
+          "goal": "目标：收益稳定、周期明确、风险可控",
+          "characteristics": [
+            "有部分理财经验，追求年化 8%~20% 的稳定回报",
+            "可接受 1~6 个月的资金锁定期",
+            "关注资产安全与保险机制保障",
+            "对打新项目或结构性基金有兴趣，但重视退出机制与合规性"
+          ],
+          "recommendLabel": "推荐产品",
+          "recommendedProducts": "打新股权计划（Pre-IPO）、结构化 PIPE 基金、活期搭配",
+          "iconPath": "M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"
+        },
+        {
+          "title": "高净值客户（HNWI）",
+          "goal": "目标：多元配置、优化税务、精准进入中早期股权项目",
+          "characteristics": [
+            "拥有可配置资金规模 $100 万以上",
+            "具备资产分散配置意识，关注全球市场趋势",
+            "寻求股权型、战略型、高杠杆结构配置方案",
+            "重视平台安全、退出路径、承保机制、报告透明度"
+          ],
+          "recommendLabel": "推荐产品",
+          "recommendedProducts": "PIPE 定增产品、Pre-IPO 股权申购、定制组合投组",
+          "iconPath": "M12 8c-1.657 0-3 .895-3 2s1.343 2 3 2 3 .895 3 2-1.343 2-3 2m0-8c1.11 0 2.08.402 2.599 1M12 8V7m0 1v8m0 0v1m0-1c-1.11 0-2.08-.402-2.599-1M21 12a9 9 0 11-18 0 9 9 0 0118 0z"
+        },
+        {
+          "title": "企业法人／家族资金信托",
+          "goal": "目标：资金长期配置、结构化管理、保值增值并存",
+          "characteristics": [
+            "企业或家族办公室持有长期闲置资金",
+            "需满足财务对账、合规审计、信托结构需求",
+            "重视稳定现金流、组合防御配置与流动性安排",
+            "倾向平台长期合作、策略定制与专属顾问对接"
+          ],
+          "recommendLabel": "推荐方案",
+          "recommendedProducts": "专项基金配置、ETF-PIPE 搭配结构、专户策略定制服务",
+          "iconPath": "M3 7v10a2 2 0 002 2h14a2 2 0 002-2V9a2 2 0 00-2-2H5a2 2 0 00-2-2z"
+        }
+      ]
+    }
+  },
+  "contact": {
+    "hero": {
+      "title": "联络我们",
+      "titleEn": "CONTACT US",
+      "description": "我们期待与您建立长期合作关系，为您提供专业的资产管理服务"
+    },
+    "decorations": {
+      "leftSide": "装饰元素左侧",
+      "rightSide": "装饰元素右侧"
+    },
+    "contactInfo": {
+      "title": "联络资讯",
+      "titleEn": "CONTACT INFORMATION",
+      "description": "欢迎透过以下方式与我们联系，我们的专业团队将竭诚为您服务"
+    },
+    "address": {
+      "iconAlt": "地址图标",
+      "companyName": "N Plus Capital Limited",
+      "addressLocal": "香港荃湾横窝仔街16-26号顺力工业大厦15楼04C室",
+      "companyNameEn": "N Plus Capital Limited",
+      "addressEn": "Rm 04C, 15/F, Sunwise Industrial Building,\n16-26 Wang Wo Tsai Street, Tsuen Wan, Hong Kong"
+    },
+    "phone": {
+      "number": "000 0000 0000"
+    },
+    "email": {
+      "iconAlt": "邮箱图标",
+      "address": "info@npluscapital.com"
+    },
+    "serviceInfo": {
+      "title": "服务资讯",
+      "titleEn": "SERVICE INFORMATION",
+      "businessHours": {
+        "title": "营业时间",
+        "weekdays": "周一至周五：09:00 - 18:00",
+        "weekend": "周六：09:00 - 13:00",
+        "note": "周日及公众假期休息"
+      },
+      "customerSupport": {
+        "title": "客户支援",
+        "hours": "线上客服：09:00 - 23:00",
+        "languages": "支援中文（繁体/简体）、英文",
+        "responseTime": "平均回应时间：< 3 分钟"
+      },
+      "appointment": {
+        "title": "预约咨询",
+        "description": "高净值客户可预约专属顾问服务",
+        "method": "请透过电邮或客服预约"
+      },
+      "contactNote": {
+        "title": "联络我们前",
+        "description": "建议您先准备相关问题或需求说明，以便我们的专业团队能更有效地为您提供协助。我们重视每一次沟通机会，致力为您提供最优质的服务体验。"
+      }
+    }
+  },
+  "certification": {
+    "hero": {
+      "title": "资质认证",
+      "titleEn": "REGULATORY COMPLIANCE",
+      "description": "持有香港证监会SFC第4类及第9类正规牌照，严格遵循监管要求，建立完善合规体系，为客户投资安全提供坚实法律保障。我们建立了专业规范的服务流程体系，确保投资决策透明高效，从客户需求分析到投资执行监控，提供全程专业服务"
+    },
+    "decorations": {
+      "leftSide": "装饰元素左侧",
+      "rightSide": "装饰元素右侧"
+    },
+    "sfcLicense": {
+      "title": "SFC 持牌资质",
+      "titleEn": "SFC LICENSED QUALIFICATIONS",
+      "companyInfo": {
+        "nameLabel": "公司名称",
+        "name": "N Plus Capital Limited",
+        "licenseLabel": "SFC 持牌机构编号",
+        "licenseNumber": "BLY077"
+      },
+      "licenseTypes": {
+        "title": "牌照种类与监管范围",
+        "description": "N Plus Capital Limited 持有以下两类 SFC 许可许可范围：",
+        "types": [
+          {
+            "number": "4",
+            "title": "Type 4（资产管理）",
+            "description": "资产管理业务，包括管理客户投资组合"
+          },
+          {
+            "number": "9",
+            "title": "Type 9（为集体投资计划提供意见）",
+            "description": "就基金、ETF 等集体投资计划提供专业意见与评估"
+          }
+        ]
+      },
+      "complianceStatus": {
+        "title": "当前合规状态",
+        "description": "符合 SFC 对相关牌照资质的配置要求。公司持续维持活跃牌照状态，无任何暂停、撤销记录，并接受 SFC 定期监督与审查。"
+      },
+      "importance": {
+        "title": "SFC 持牌的重要意义",
+        "points": [
+          {
+            "title": "合法合规经营",
+            "description": "获 SFC 授权才能合规开展资产管理与基金顾问业务",
+            "iconPath": "M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z"
+          },
+          {
+            "title": "专业管理责任",
+            "description": "RO 需担任高管职务并承诺承担法律责任，保障服务质量",
+            "iconPath": "M17 20h5v-2a3 3 0 00-5.356-1.857M17 20H7m10 0v-2c0-.656-.126-1.283-.356-1.857M7 20H2v-2a3 3 0 015.356-1.857M7 20v-2c0-.656.126-1.283.356-1.857m0 0a5.002 5.002 0 019.288 0M15 7a3 3 0 11-6 0 3 3 0 016 0zm6 3a2 2 0 11-4 0 2 2 0 014 0zM7 10a2 2 0 11-4 0 2 2 0 014 0z"
+          },
+          {
+            "title": "加强客户信任",
+            "description": "SFC 监管严格、透明度高，授权牌照提供客户信心",
+            "iconPath": "M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z"
+          },
+          {
+            "title": "持续监管评估",
+            "description": "定期提交审计报表与牌照续期申请，确保风控与合规长期到位",
+            "iconPath": "M9 19v-6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2a2 2 0 002-2zm0 0V9a2 2 0 012-2h2a2 2 0 012 2v10m-6 0a2 2 0 002 2h2a2 2 0 002-2m0 0V5a2 2 0 012-2h2a2 2 0 012 2v14a2 2 0 01-2 2h-2a2 2 0 01-2-2z"
+          }
+        ]
+      },
+      "summary": {
+        "title": "专业合规，值得信赖",
+        "description": "N Plus Capital Limited 获得 SFC 核发的 BLY077 资产管理（Type 4）与集体投资计划咨询（Type 9）牌照，并配备经验丰富的 RO 团队，符合监管标准并确保业务安全合规。"
+      }
+    },
+    "compliancePolicy": {
+      "title": "合规政策概述",
+      "titleEn": "COMPLIANCE POLICY OVERVIEW",
+      "sections": [
+        {
+          "title": "监管合规框架",
+          "items": [
+            "严格遵循 SFC 监管要求和行业最佳实践",
+            "建立完善的内部控制和风险管理体系",
+            "定期接受监管机构检查和第三方审计",
+            "持续更新合规政策以适应法规变化"
+          ]
+        },
+        {
+          "title": "客户保护措施",
+          "items": [
+            "实施 KYC（了解您的客户）和 AML（反洗钱）程序",
+            "客户资金独立托管，与公司资产严格分离",
+            "提供透明的费用结构和投资风险披露",
+            "建立客户投诉处理机制和争议解决程序"
+          ]
+        },
+        {
+          "title": "专业责任制度",
+          "items": [
+            "指定负责人员（RO）承担法律和监管责任",
+            "所有员工必须通过相关资格考试和持续培训",
+            "建立利益冲突识别和管理机制",
+            "确保投资建议符合客户最佳利益原则"
+          ]
+        },
+        {
+          "title": "信息安全与隐私",
+          "items": [
+            "采用银行级数据加密和安全防护措施",
+            "严格控制客户信息访问权限",
+            "定期进行网络安全评估和渗透测试",
+            "遵循个人数据保护法规要求"
+          ]
+        }
+      ],
+      "commitment": {
+        "title": "我们的合规承诺",
+        "description": "N Plus Capital Limited 致力于维持最高标准的合规运营，确保所有业务活动均符合监管要求。我们相信，严格的合规管理不仅是法律义务，更是对客户信任的最佳回应。我们将持续投资于合规体系建设，为客户提供安全、透明、专业的投资服务。"
+      }
+    }
+  },
+  "strength": {
+    "hero": {
+      "title": "实力展现",
+      "titleEn": "STRENGTH DEMONSTRATION",
+      "description": "管理资产规模持续稳健增长，服务涵盖机构投资者与高净值个人客户，在香港资产管理市场建立良好声誉与专业地位"
+    },
+    "decorations": {
+      "leftSide": "装饰元素左侧",
+      "rightSide": "装饰元素右侧"
+    },
+    "assetManagement": {
+      "title": "资产管理实力",
+      "titleEn": "ASSET MANAGEMENT STRENGTH",
+      "coreData": [
+        {
+          "title": "管理资产规模",
+          "value": "数千万",
+          "unit": "美元",
+          "iconPath": "M12 8c-1.657 0-3 .895-3 2s1.343 2 3 2 3 .895 3 2-1.343 2-3 2m0-8c1.11 0 2.08.402 2.599 1M12 8V7m0 1v8m0 0v1m0-1c-1.11 0-2.08-.402-2.599-1M21 12a9 9 0 11-18 0 9 9 0 0118 0z"
+        },
+        {
+          "title": "注册用户",
+          "value": "5,200+",
+          "unit": "名客户",
+          "iconPath": "M17 20h5v-2a3 3 0 00-5.356-1.857M17 20H7m10 0v-2c0-.656-.126-1.283-.356-1.857M7 20H2v-2a3 3 0 015.356-1.857M7 20v-2c0-.656.126-1.283.356-1.857m0 0a5.002 5.002 0 019.288 0M15 7a3 3 0 11-6 0 3 3 0 016 0zm6 3a2 2 0 11-4 0 2 2 0 014 0zM7 10a2 2 0 11-4 0 2 2 0 014 0z"
+        },
+        {
+          "title": "专业经验",
+          "value": "多年",
+          "unit": "投顾经验",
+          "iconPath": "M13 7h8m0 0v8m0-8l-8 8-4-4-6 6"
+        }
+      ],
+      "teamStrength": {
+        "title": "管理团队实力",
+        "points": [
+          {
+            "title": "资深投资管理",
+            "description": "CIO Ivy Xing 曾管理资产超过数千万美元规模，具备丰富的机构级资产管理经验",
+            "iconPath": "M16 7a4 4 0 11-8 0 4 4 0 018 0zM12 14a7 7 0 00-7 7h14a7 7 0 00-7-7z"
+          },
+          {
+            "title": "专业投顾背景",
+            "description": "团队具备多年专业投顾经验，服务客户基础包括机构与高净值个人投资者",
+            "iconPath": "M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"
+          }
+        ]
+      }
+    },
+    "clientDistribution": {
+      "title": "客户数量和类型分布",
+      "titleEn": "CLIENT DISTRIBUTION",
+      "description": "截至 2024 年 12 月底，N Plus Capital 已为超过 5,200 名注册用户提供专业投管服务。",
+      "chartTitle": "客户类型分布",
+      "totalUsers": "5,200+",
+      "totalUsersLabel": "注册用户",
+      "legend": [
+        {
+          "label": "初阶理财用户",
+          "percentage": "40%",
+          "color": "#ab9064"
+        },
+        {
+          "label": "稳健投资者",
+          "percentage": "35%",
+          "color": "#c5a572"
+        },
+        {
+          "label": "高净值客户",
+          "percentage": "20%",
+          "color": "#d4b485"
+        },
+        {
+          "label": "法人/机构客户",
+          "percentage": "5%",
+          "color": "#e3c398"
+        }
+      ],
+      "details": [
+        {
+          "title": "初阶理财用户（约占 40%）",
+          "description": "希望获取每日收益、账户流动性强，使用活期理财产品的用户。",
+          "color": "#ab9064"
+        },
+        {
+          "title": "稳健投资者（约占 35%）",
+          "description": "对收益与风险有平衡诉求，参与新股申购与结构化基金的中期投资人。",
+          "color": "#c5a572"
+        },
+        {
+          "title": "高净值客户（约占 20%）",
+          "description": "持有资产配置规模 $100 万以上，偏好 PIPE、Pre-IPO 等股权型配置。",
+          "color": "#d4b485"
+        },
+        {
+          "title": "法人/机构客户（约占 5%）",
+          "description": "包括中小企业、家族信托与机构资金，关注长期稳健配置与合规报告。",
+          "color": "#e3c398"
+        }
+      ]
+    },
+    "marketPosition": {
+      "title": "市场地位与专业认可",
+      "points": [
+        {
+          "title": "香港市场地位",
+          "description": "在香港资产管理市场建立良好声誉与专业地位",
+          "iconPath": "M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"
+        },
+        {
+          "title": "稳健增长",
+          "description": "管理资产规模持续稳健增长，客户信任度不断提升",
+          "iconPath": "M13 10V3L4 14h7v7l9-11h-7z"
+        },
+        {
+          "title": "多元化服务",
+          "description": "服务涵盖机构投资者与高净值个人客户",
+          "iconPath": "M17 20h5v-2a3 3 0 00-5.356-1.857M17 20H7m10 0v-2c0-.656-.126-1.283-.356-1.857M7 20H2v-2a3 3 0 015.356-1.857M7 20v-2c0-.656.126-1.283.356-1.857m0 0a5.002 5.002 0 019.288 0M15 7a3 3 0 11-6 0 3 3 0 016 0zm6 3a2 2 0 11-4 0 2 2 0 014 0zM7 10a2 2 0 11-4 0 2 2 0 014 0z"
+        }
+      ]
+    }
+  },
+  "team": {
+    "hero": {
+      "title": "专业团队",
+      "titleEn": "PROFESSIONAL TEAM",
+      "description": "我们的团队始终坚持以客户为中心的服务理念，提供个性化专业咨询与全方位投资支持，确保客户权益得到充分保护与尊重"
+    },
+    "decorations": {
+      "leftSide": "装饰元素左侧",
+      "rightSide": "装饰元素右侧"
+    },
+    "overview": {
+      "title": "Our Team",
+      "subtitle": "专业，是值得托付的根本"
+    },
+    "coreManagement": {
+      "title": "核心管理层（Responsible Officers）",
+      "sfcNumberLabel": "SFC 注册编号",
+      "members": [
+        {
+          "name": "郑伟良（Henry Cheng）",
+          "position": "资产管理总监",
+          "sfcNumber": "ABH991",
+          "details": [
+            "拥有超过 15 年金融从业经验，曾任职于多家国际投资银行与家族办公室",
+            "擅长跨境资产配置、IPO 项目承销与结构化基金管理",
+            "目前担任 N Plus Capital 资产管理业务负责人（Type 4 & 9 牌照持有人）"
+          ]
+        },
+        {
+          "name": "黄秋云（Qiuyun Huang）",
+          "position": "风控及产品负责人",
+          "sfcNumber": "BOL017",
+          "details": [
+            "前亚洲知名证券公司资深产品经理，主导 PIPE 私募、ETF 组合建仓策略",
+            "拥有 CFA 国际金融分析师证书与香港本地基金销售认证",
+            "专责平台风控机制、保险配置与投前尽职调查审核"
+          ]
+        }
+      ]
+    },
+    "formerMembers": {
+      "title": "历任重要成员",
+      "members": [
+        {
+          "name": "Helen Lo",
+          "position": "前资产管理总监",
+          "responsibility": "负责组合投资与投资策略",
+          "tenure": "任期：2017年10月–2020年5月"
+        },
+        {
+          "name": "Ivy Xing",
+          "position": "前首席投资官",
+          "responsibility": "管理资产规模超千万美元",
+          "tenure": "任期：2018年5月–2019年7月"
+        },
+        {
+          "name": "Chelsea Mak",
+          "position": "公司负责人",
+          "responsibility": "负责合规与对外监管对接",
+          "tenure": "Responsible Officer"
+        }
+      ]
+    },
+    "teamStructure": {
+      "title": "团队架构",
+      "titleEn": "TEAM STRUCTURE",
+      "departments": [
+        {
+          "name": "投资研究团队",
+          "nameEn": "Investment & Research",
+          "iconPath": "M9 19v-6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2a2 2 0 002-2zm0 0V9a2 2 0 012-2h2a2 2 0 012 2v10m-6 0a2 2 0 002 2h2a2 2 0 002-2m0 0V5a2 2 0 012-2h2a2 2 0 012 2v14a2 2 0 01-2 2h-2a2 2 0 01-2-2z",
+          "responsibilities": [
+            "由来自投行、券商、信托公司与资管机构的资深研究员组成",
+            "擅长一级股权市场分析（Pre-IPO）、行业轮动策略、估值建模与风险情境模拟",
+            "成员大多具备国际金融机构背景，熟悉香港与东南亚资本市场"
+          ]
+        },
+        {
+          "name": "风控与法务顾问",
+          "nameEn": "Risk & Compliance",
+          "iconPath": "M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z",
+          "responsibilities": [
+            "内部设有专职合规官（Compliance Officer）与外聘法律事务所合作",
+            "负责平台 AML/KYC 审查、交易异常监控、SFC 报备与法规应对",
+            "定期进行产品风险再评估与政策更新，确保操作合规无误"
+          ]
+        },
+        {
+          "name": "客户服务团队",
+          "nameEn": "Client Success Team",
+          "iconPath": "M17 20h5v-2a3 3 0 00-5.356-1.857M17 20H7m10 0v-2c0-.656-.126-1.283-.356-1.857M7 20H2v-2a3 3 0 015.356-1.857M7 20v-2c0-.656.126-1.283.356-1.857m0 0a5.002 5.002 0 019.288 0M15 7a3 3 0 11-6 0 3 3 0 016 0zm6 3a2 2 0 11-4 0 2 2 0 014 0zM7 10a2 2 0 11-4 0 2 2 0 014 0z",
+          "responsibilities": [
+            "全员配备金融背景，具备中文简体／繁体／英文三语服务能力",
+            "提供每日在线服务（09:00–23:00），覆盖开户、储值、建仓、提领全流程",
+            "顾问型服务导向，支持一对一产品说明、资金路径规划与保单验证"
+          ]
+        }
+      ]
+    },
+    "teamAdvantages": {
+      "title": "团队优势",
+      "advantages": [
+        {
+          "title": "专业资质",
+          "description": "团队成员均具备相关金融资质认证，拥有丰富的行业经验",
+          "iconPath": "M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"
+        },
+        {
+          "title": "国际视野",
+          "description": "具备国际金融机构背景，熟悉全球资本市场运作",
+          "iconPath": "M13 10V3L4 14h7v7l9-11h-7z"
+        },
+        {
+          "title": "客户至上",
+          "description": "始终坚持以客户为中心，提供个性化专业服务",
+          "iconPath": "M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z"
+        }
+      ]
+    }
+  },
+  "footer": {
+    "address": {
+      "title": "地址",
+      "titleEn": "ADDRESS",
+      "companyName": "N Plus Capital Limited",
+      "addressLocal": "香港荃湾横窝仔街16-26号顺力工业大厦15楼04C室",
+      "companyNameEn": "N Plus Capital Limited",
+      "addressEn": "Room 04C, 15/F, Shun Lee Industrial Building, 16-26 Wang Wo Tsai Street, Tsuen Wan, Hong Kong"
+    },
+    "contact": {
+      "title": "联络",
+      "titleEn": "CONTACT",
+      "email": "info@npluscapital.com"
+    },
+    "socialMedia": {
+      "title": "社交媒体",
+      "titleEn": "SOCIAL MEDIA",
+      "linkedin": "#",
+      "linkedinLabel": "LinkedIn 链接"
+    },
+    "legal": {
+      "termsOfUse": "使用条款",
+      "privacyPolicy": "隐私政策",
+      "copyright": "© N Plus Capital Limited. 版权所有。"
+    },
+    "backToTop": "回到顶部"
+  }
+}

@@ -11,7 +11,6 @@ export function middleware(request) {
   const isLocaleRoute = locales.some(locale =>
     pathname.startsWith(`/${locale}/`) || pathname === `/${locale}`
   )
-
   // 如果是 locale 路由，直接通过
   if (isLocaleRoute) {
     return NextResponse.next()

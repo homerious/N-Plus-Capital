@@ -1,1 +1,857 @@
-{}
+{
+  "meta": {
+    "title": "N Plus Capital Limited",
+    "description": "N Plus Capital Limited"
+  },
+  "header": {
+    "logoAlt": "Company Logo",
+    "mobileMenuToggle": "Toggle Mobile Menu",
+    "nav": {
+      "about": "About Us",
+      "business": "Business Areas",
+      "advantage": "Core Advantages",
+      "qualification": "Qualifications & Certifications",
+      "strength": "Strength Demonstration",
+      "team": "Professional Team",
+      "contact": "Contact Us"
+    }
+  },
+  "mobileMenu": {
+    "languageLabel": "Language / 语言",
+    "copyright": "© 2025 N Plus Capital Limited",
+    "allRightsReserved": "All rights reserved"
+  },
+  "home": {
+    "hero": {
+      "sloganZh": "立足香港，服务全球",
+      "sloganEn": "Based in Hong Kong, Serving the World"
+    },
+    "decorations": {
+      "topLeft": "Top Left Decoration",
+      "topRight": "Top Right Decoration",
+      "diamond": "Diamond Pattern",
+      "investment": "Investment Pattern",
+      "organicShape": "Organic Shape"
+    },
+    "about": {
+      "title": "About Us",
+      "titleEn": "ABOUT US",
+      "description": "Based in Hong Kong, the international financial center, we are a professional licensed asset management institution. With strict compliance operations and professional investment capabilities, we are committed to creating long-term stable investment returns for our clients.\n\nDriven by data for professional investment and protected by systems for client assets, we build a trustworthy digital wealth platform for every investor.",
+      "learnMore": "Learn More"
+    },
+    "business": {
+      "title": "Business Areas",
+      "titleEn": "BUSINESS SCOPE",
+      "description": "We provide comprehensive professional investment management services, covering asset management, securities consulting, and investment strategy formulation. From professional analysis to asset allocation, we escort the appreciation of your wealth. Adhering to the concept of value investment, based on in-depth market research and risk control, we build a diversified investment portfolio to pursue the goals of long-term stable returns and asset preservation and appreciation.",
+      "items": {
+        "ipo": "IPO Subscription",
+        "privateEquity": "Private Equity Investment",
+        "etf": "ETF",
+        "currentFinance": "Demand Deposit Wealth Management"
+      },
+      "learnMore": "Learn More"
+    },
+    "advantage": {
+      "title": "Core Advantages",
+      "titleEn": "CORE ADVANTAGES",
+      "description": "Bringing together a senior professional team, strict compliance operation mechanisms, tailor-made investment solutions, and diversified service capabilities, we use professional strength to help clients achieve the goal of stable wealth appreciation.\n\nWe not only serve clients but also manage long-term trusting relationships.\nThe service positioning of N Plus Capital is not a \"customer service center\" but a \"gatekeeper of wealth security\".\nWe always believe that truly excellent financial services are not packaged, but shaped by systems, transparency, and a sense of companionship.",
+      "learnMore": "Learn More"
+    },
+    "qualification": {
+      "title": "Qualifications & Certifications",
+      "titleEn": "QUALIFICATIONS & CERTIFICATIONS",
+      "description": "Holding the formal Licenses Type 4 and Type 9 of the Hong Kong Securities and Futures Commission (SFC), we strictly follow regulatory requirements and establish a sound compliance system to provide a solid legal guarantee for clients' investment safety. We have established a professional and standardized service process system to ensure transparent and efficient investment decisions, providing full-process professional services from client needs analysis to investment execution monitoring.",
+      "learnMore": "Learn More"
+    },
+    "strength": {
+      "title": "Strength Demonstration",
+      "titleEn": "STRENGTH SHOWCASE",
+      "stats": {
+        "clients": {
+          "number": "5000+",
+          "label": "Clients Served"
+        },
+        "assets": {
+          "number": "5+ Billion HKD",
+          "label": "Assets Under Management"
+        },
+        "experience": {
+          "number": "5+ Years",
+          "label": "Industry Experience"
+        }
+      },
+      "description": "Our asset management scale continues to grow steadily, serving institutional investors and high-net-worth individual clients, and establishing a good reputation and professional status in the Hong Kong asset management market.\n\nWith a professional team and rigorous investment process, we create long-term value for clients and become a trustworthy wealth management partner.",
+      "learnMore": "Learn More"
+    }
+  },
+  "about": {
+    "hero": {
+      "title": "About Us",
+      "titleEn": "ABOUT US",
+      "description": "Based in Hong Kong, the international financial center, we are a professional licensed asset management institution. With strict compliance operations and professional investment capabilities, we are committed to creating long-term stable investment returns for our clients."
+    },
+    "decorations": {
+      "leftSide": "Left Decoration Element",
+      "rightSide": "Right Decoration Element"
+    },
+    "overview": {
+      "title": "Company Overview",
+      "titleEn": "COMPANY OVERVIEW",
+      "companyInfo": {
+        "name": {
+          "value": "N Plus Capital Limited",
+          "label": "Full Company Name"
+        },
+        "license": {
+          "value": "SFC Type 4 and Type 9 Licenses",
+          "label": "Regulatory License"
+        },
+        "history": {
+          "value": "Since 2017",
+          "label": "Operational History"
+        }
+      },
+      "description": "N Plus Capital Limited is a professional licensed asset management institution based in Hong Kong, the international financial center. Holding Type 4 (Advising on Securities) and Type 9 (Asset Management) licenses from the Hong Kong Securities and Futures Commission (SFC), we are committed to creating long-term stable investment returns for our clients with strict compliance operations and professional investment capabilities."
+    },
+    "mission": {
+      "title": "Company Mission",
+      "titleEn": "MISSION",
+      "highlight": "Drive professional investment with data, safeguard client assets with systems, and build a trustworthy digital wealth platform for every investor.",
+      "description": "The mission of N Plus Capital is to provide clients with safe, efficient, and stable investment services through a rigorous product screening mechanism, intelligent risk management system, and a fund guarantee system underwritten by a third-party insurance company.",
+      "commitment": "We are dedicated to bringing investment back to its essence and making trust the foundation of capital flow."
+    },
+    "vision": {
+      "title": "Company Vision",
+      "titleEn": "VISION",
+      "highlight": "Become a leading Asian digital asset management platform, making high-quality financial services accessible to every user.",
+      "description": "We aim to break down financial barriers through the integration of technology and professionalism, ensuring capital allocation is no longer exclusive to a few. We believe that inclusive, transparent, and verifiable financial services can truly achieve mutual growth between clients and the platform."
+    },
+    "values": {
+      "title": "Core Values",
+      "titleEn": "CORE VALUES",
+      "items": [
+        {
+          "title": "Professional Prudence",
+          "description": "Every product is evaluated by financial experts with established risk control logic, avoiding blind pursuit of high returns. Our team has diverse backgrounds, building client trust with professional capabilities.",
+          "iconPath": "M9 19v-6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2a2 2 0 002-2zm0 0V9a2 2 0 012-2h2a2 2 0 012 2v10m-6 0a2 2 0 002 2h2a2 2 0 002-2m0 0V5a2 2 0 012-2h2a2 2 0 012 2v14a2 2 0 01-2 2h-2a2 2 0 01-2-2z"
+        },
+        {
+          "title": "Stability & Safety",
+          "description": "The system strictly implements identity verification, transaction control, fund custody, and insurance mechanisms. Pacific Insurance Company is introduced to provide real and effective risk underwriting for each product.",
+          "iconPath": "M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z"
+        },
+        {
+          "title": "Compliance & Transparency",
+          "description": "Comply with financial regulations to protect user data and funds, ensuring clarity, traceability, and reasonable control. The entire process follows KYC and AML standards.",
+          "iconPath": "M3 6l3 1m0 0l-3 9a5.002 5.002 0 006.001 0M6 7l3 9M6 7l6-2m6 2l3-1m-3 1l-3 9a5.002 5.002 0 006.001 0M18 7l3 9m-3-9l-6-2m0-2v2m0 16V5m0 16H9m3 0h3"
+        },
+        {
+          "title": "Client-Centric",
+          "description": "Design processes and products with user interests at the core, ensuring both experience and protection. No exaggeration or misdirection—only provide real, traceable, and risk-controlled investment options.",
+          "iconPath": "M17 20h5v-2a3 3 0 00-5.356-1.857M17 20H7m10 0v-2c0-.656-.126-1.283-.356-1.857M7 20H2v-2a3 3 0 015.356-1.857M7 20v-2c0-.656.126-1.283.356-1.857m0 0a5.002 5.002 0 019.288 0M15 7a3 3 0 11-6 0 3 3 0 016 0zm6 3a2 2 0 11-4 0 2 2 0 014 0zM7 10a2 2 0 11-4 0 2 2 0 014 0z"
+        },
+        {
+          "title": "Data-Driven",
+          "description": "From product screening, risk control models, and investment allocation to client fund custody and monitoring, every decision is based on detailed data, market insights, and professional judgment.",
+          "iconPath": "M16 8v8m-4-5v5m-4-2v2m-2 4h12a2 2 0 002-2V6a2 2 0 00-2-2H6a2 2 0 00-2 2v12a2 2 0 002 2z"
+        },
+        {
+          "title": "Mutual Growth",
+          "description": "We are not just an investment platform but a long-term wealth growth partner for our clients. Accompany users through market cycles to achieve long-term stable asset growth.",
+          "iconPath": "M13 7h8m0 0v8m0-8l-8 8-4-4-6 6"
+        }
+      ]
+    }
+  },
+  "advantages": {
+    "hero": {
+      "title": "Core Advantages",
+      "titleEn": "CORE ADVANTAGES",
+      "description": "Bringing together a senior professional team, strict compliance operation mechanisms, tailor-made investment solutions, and diversified service capabilities, we use professional strength to help clients achieve the goal of stable wealth appreciation."
+    },
+    "decorations": {
+      "leftSide": "Left Decoration Element",
+      "rightSide": "Right Decoration Element"
+    },
+    "coreAdvantages": {
+      "title": "Core Advantages",
+      "titleEn": "CORE ADVANTAGES",
+      "items": [
+        {
+          "title": "Professional Authorized Asset Allocation Capability",
+          "description": "Led by experienced asset managers, providing professional portfolio management services",
+          "iconPath": "M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"
+        },
+        {
+          "title": "Formal License & Compliance Mechanism",
+          "description": "Authorized by SFC, Type 4 and Type 9 licenses + dedicated responsible persons to ensure compliant operations",
+          "iconPath": "M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z"
+        },
+        {
+          "title": "Strong Background of Senior Team",
+          "description": "The management team has years of experience and market resources in Hong Kong's asset management industry",
+          "iconPath": "M17 20h5v-2a3 3 0 00-5.356-1.857M17 20H7m10 0v-2c0-.656-.126-1.283-.356-1.857M7 20H2v-2a3 3 0 015.356-1.857M7 20v-2c0-.656.126-1.283.356-1.857m0 0a5.002 5.002 0 019.288 0M15 7a3 3 0 11-6 0 3 3 0 016 0zm6 3a2 2 0 11-4 0 2 2 0 014 0zM7 10a2 2 0 11-4 0 2 2 0 014 0z"
+        },
+        {
+          "title": "Diversified Service Capabilities",
+          "description": "Covering stock investment, asset management, investment strategy formulation, and compliance consulting",
+          "iconPath": "M19 11H5m14 0a2 2 0 012 2v6a2 2 0 01-2 2H5a2 2 0 01-2-2v-6a2 2 0 012-2m14 0V9a2 2 0 00-2-2M5 11V9a2 2 0 012-2m0 0V5a2 2 0 012-2h6a2 2 0 012 2v2M7 7h10"
+        }
+      ]
+    },
+    "platformAdvantages": {
+      "title": "Platform Service Advantages",
+      "titleEn": "PLATFORM SERVICE ADVANTAGES",
+      "items": [
+        "Diversified product lines to meet different risk levels and liquidity needs",
+        "Professional risk control review for the entire product process, all underwritten by Pacific Insurance Company",
+        "Providing client asset reports, online advisors, regular market reviews, and portfolio suggestions",
+        "Providing configuration consulting services for corporate taxation, fund paths, and entrustment structures"
+      ],
+      "trustTitle": "We believe that trust is the beginning of long-term cooperation",
+      "trustDescription": "N Plus Capital does not pursue short-term marketing conversion but focuses on providing the sustainable and verifiable asset growth path for each client."
+    },
+    "customerService": {
+      "title": "Customer Service Features",
+      "titleEn": "CUSTOMER SERVICE FEATURES",
+      "subtitle": "6 Core Advantages of N Plus Capital's Customer Service",
+      "features": [
+        {
+          "title": "Efficient Response | Professional Customer Service Team Online Daily",
+          "features": [
+            "Provides daily 09:00–23:00 live online service, regardless of holidays",
+            "Supports multiple languages (Simplified Chinese, Traditional Chinese, English) to fit Asian client habits",
+            "Average response time for customer issues < 3 minutes to ensure no investment waiting"
+          ]
+        },
+        {
+          "title": "One-on-One Dedicated Advisor System",
+          "features": [
+            "Dedicated advisor services for high-net-worth clients and corporate legal entities",
+            "Online asset diagnosis meetings can be scheduled to analyze product portfolios and fund allocations",
+            "Advisors can assist in preparing pre-investment documents, product policy numbers, compliance materials, etc."
+          ]
+        },
+        {
+          "title": "Full-Process Investment Assistance",
+          "features": [
+            "From account opening, identity verification, fund storage, position building, to withdrawal, each step has complete illustrations and operation instructions",
+            "Set up a FAQ center to solve more than 95% of common user questions"
+          ]
+        },
+        {
+          "title": "Safe and Transparent Account System",
+          "features": [
+            "Users can view in real time: fund details, transaction records, freeze status, and policy documents",
+            "Withdrawal, transfer, and position building all have system reminders + operation confirmation mechanisms",
+            "Every operation is reviewed by both system and manual to ensure accuracy"
+          ]
+        },
+        {
+          "title": "Data Security and Client Privacy Mechanism",
+          "features": [
+            "All personal and investment data are encrypted and stored, and the platform implements a minimum privilege mechanism",
+            "Users can apply for data deactivation, freezing, or deletion, and the system processes and feedbacks the processing records in accordance with the law",
+            "Transaction data and identity information are layered and managed, and regularly subject to third-party audits and compliance assessments"
+          ]
+        },
+        {
+          "title": "Insurance Underwriting × Dual Risk Control Support",
+          "features": [
+            "All products complete risk control modeling + real policy underwriting by Pacific Insurance Company before launch",
+            "Clients can request underwriting certificates, fund placement instructions, and insurance documents through customer service",
+            "In case of system problems not caused by users, the platform promises to actively assist in applying for claim support"
+          ]
+        }
+      ],
+      "philosophyTitle": "We not only serve clients but also manage long-term trusting relationships",
+      "philosophyDescription1": "The service positioning of N Plus Capital is not a 'customer service center' but a 'gatekeeper of wealth security'.",
+      "philosophyDescription2": "We always believe that truly excellent financial services are not packaged, but shaped by systems, transparency, and a sense of companionship."
+    }
+  },
+  "investment": {
+    "hero": {
+      "title": "Business Areas",
+      "titleEn": "BUSINESS AREAS",
+      "description": "Provide comprehensive professional investment management services, covering asset management, securities consulting, and investment strategy formulation. From professional analysis to asset allocation, we escort the appreciation of your wealth. Adhering to the concept of value investment, based on in-depth market research and risk control, we build a diversified investment portfolio to pursue the goals of long-term stable returns and asset preservation and appreciation."
+    },
+    "decorations": {
+      "leftSide": "Left Decoration Element",
+      "rightSide": "Right Decoration Element"
+    },
+    "coreBusiness": {
+      "title": "Core Business",
+      "titleEn": "CORE BUSINESS",
+      "items": [
+        {
+          "title": "Asset Management",
+          "description": "Focused on stock investment and asset allocation, portfolio management according to investment authorization, providing professional portfolio construction services",
+          "iconPath": "M9 19v-6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2a2 2 0 002-2zm0 0V9a2 2 0 012-2h2a2 2 0 012 2v10m-6 0a2 2 0 002 2h2a2 2 0 002-2m0 0V5a2 2 0 012-2h2a2 2 0 012 2v14a2 2 0 01-2 2h-2a2 2 0 01-2-2z"
+        },
+        {
+          "title": "Securities Consulting",
+          "description": "Providing investment advice services on securities and derivatives (Type 4 license), offering professional investment consulting to clients",
+          "iconPath": "M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"
+        },
+        {
+          "title": "Investment Strategy",
+          "description": "Through the investment advisory team, combining research, market analysis, and client authorization to provide tailor-made services",
+          "iconPath": "M9 12l2 2 4-4M7.835 4.697a3.42 3.42 0 001.946-.806 3.42 3.42 0 014.438 0 3.42 3.42 0 001.946.806 3.42 3.42 0 013.138 3.138 3.42 3.42 0 00.806 1.946 3.42 3.42 0 010 4.438 3.42 3.42 0 00-.806 1.946 3.42 3.42 0 01-3.138 3.138 3.42 3.42 0 00-1.946.806 3.42 3.42 0 01-4.438 0 3.42 3.42 0 00-1.946-.806 3.42 3.42 0 01-3.138-3.138 3.42 3.42 0 00-.806-1.946 3.42 3.42 0 010-4.438 3.42 3.42 0 00.806-1.946 3.42 3.42 0 013.138-3.138z"
+        }
+      ]
+    },
+    "investmentAreas": {
+      "title": "Specific Investment Areas",
+      "titleEn": "DIVERSIFIED INVESTMENT STRATEGIES",
+      "description": "N Plus Capital focuses on diversified and stable asset allocation, with the core strategy of 'equity growth + income management', providing clients with long-term investment opportunities across cycles. Our team combines market trends with risk control models, focusing on the following four investment directions:",
+      "areas": [
+        {
+          "title": "IPO Subscription and Equity Placement",
+          "subtitle": "Pre-IPO Allocation",
+          "description": "We closely connect with the IPO listing processes of domestic and foreign exchanges, focusing on high-quality enterprises that have passed listing guidance, participating in their placement or private pre-round investments.",
+          "features": [
+            "Covering mainstream capital markets such as Hong Kong, US, and A-shares",
+            "Target enterprises with clear listing schedules or sponsorship qualifications",
+            "Utilizing low-allocation high-potential to obtain scarce equity dividends"
+          ]
+        },
+        {
+          "title": "PIPE Structured Private Placement Fund",
+          "subtitle": "Private Investment in Public Equity",
+          "description": "Through structured PIPE projects, enter the private placement round of listed enterprises in advance, combining arbitrage hedging mechanisms to achieve medium and short-term returns.",
+          "features": [
+            "Suitable for high-net-worth clients and advanced investors",
+            "Configurable with structures such as repurchase clauses, transfer mechanisms, and fixed-income bottom positions",
+            "Achieve 'locking annualized returns under risk control'"
+          ]
+        },
+        {
+          "title": "ETF Fixed Income Allocation",
+          "subtitle": "Exchange-Traded Fund Allocation",
+          "description": "The platform selects low-volatility, high-liquidity index ETFs, suitable for long-term holding and stable growth of client asset allocation.",
+          "features": [
+            "Investment portfolios set by professional quantitative teams to track targets",
+            "Can be used as a 'basic position' for client funds or a tool to hedge asset fluctuations",
+            "Used in conjunction with demand deposit wealth management accounts to improve overall fund efficiency"
+          ]
+        },
+        {
+          "title": "Demand Deposit Wealth Management Account",
+          "subtitle": "Flexible Wealth Management",
+          "description": "Provides daily可观收益 (considerable returns), lock-up-free demand products, suitable for fund scheduling, short-term storage, or low-risk value-added needs.",
+          "features": [
+            "Supports deposit and withdrawal at any time, with returns compounded daily",
+            "Used in conjunction with platform IPO or PIPE investments to maximize fund allocation efficiency",
+            "System automatically accrues interest, transparent and traceable"
+          ]
+        }
+      ],
+      "advantagesTitle": "Investment Advantages and Principles",
+      "advantages": [
+        "Before any product launch, the professional team of the platform evaluates the project background, financial model, and risk factors",
+        "Each product is underwritten by Pacific Insurance Company, and the platform assumes the scope of guarantee liability",
+        "Strictly implement fund custody, risk control layering, transaction review, dual-channel withdrawal and other mechanisms",
+        "Support flexible portfolio allocation: clients can freely switch positions of different products according to fund liquidity needs"
+      ]
+    },
+    "clientTypes": {
+      "title": "Types of Clients Served",
+      "titleEn": "WHO WE SERVE",
+      "description": "Based on 'professional financial products + high-standard safety guarantees + flexible liquidity allocation', N Plus Capital is committed to serving the following four client groups with clear needs for asset allocation and stable appreciation:",
+      "types": [
+        {
+          "title": "Beginner Investors",
+          "goal": "Goal: Safe start, flexible storage, low-threshold participation",
+          "characteristics": [
+            "Limited experience in financial products, expecting simple operation",
+            "Hoping for daily returns on idle funds",
+            "Valuing fund liquidity and unwilling to assume large risks",
+            "Mostly use low-risk product combinations such as demand deposit wealth management and ETF allocation"
+          ],
+          "recommendLabel": "Recommended Products",
+          "recommendedProducts": "Demand Deposit Wealth Management Account, Basic ETF Strategy Portfolio",
+          "iconPath": "M16 7a4 4 0 11-8 0 4 4 0 018 0zM12 14a7 7 0 00-7 7h14a7 7 0 00-7-7z"
+        },
+        {
+          "title": "Conservative Investors",
+          "goal": "Goal: Stable returns, clear cycle, controllable risk",
+          "characteristics": [
+            "Some financial experience, pursuing stable returns of 8%~20% annualized",
+            "Acceptable fund lock-up period of 1~6 months",
+            "Concerned about asset safety and insurance mechanism protection",
+            "Interested in IPO projects or structured funds, but value exit mechanisms and compliance"
+          ],
+          "recommendLabel": "Recommended Products",
+          "recommendedProducts": "IPO Equity Plan (Pre-IPO), Structured PIPE Fund, Demand Deposit Matching",
+          "iconPath": "M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"
+        },
+        {
+          "title": "High-Net-Worth Individuals (HNWI)",
+          "goal": "Goal: Diversified allocation, tax optimization, precise entry into early-stage equity projects",
+          "characteristics": [
+            "Controllable funds of over $1 million",
+            "Awareness of asset diversification, focusing on global market trends",
+            "Seeking equity-type, strategic, and high-leverage structure allocation solutions",
+            "Valuing platform security, exit paths, underwriting mechanisms, and report transparency"
+          ],
+          "recommendLabel": "Recommended Products",
+          "recommendedProducts": "PIPE Private Placement Products, Pre-IPO Equity Subscription, Customized Portfolio",
+          "iconPath": "M12 8c-1.657 0-3 .895-3 2s1.343 2 3 2 3 .895 3 2-1.343 2-3 2m0-8c1.11 0 2.08.402 2.599 1M12 8V7m0 1v8m0 0v1m0-1c-1.11 0-2.08-.402-2.599-1M21 12a9 9 0 11-18 0 9 9 0 0118 0z"
+        },
+        {
+          "title": "Corporate Legal Entities/Family Trusts",
+          "goal": "Goal: Long-term fund allocation, structured management, coexistence of preservation and appreciation",
+          "characteristics": [
+            "Enterprises or family offices holding long-term idle funds",
+            "Needing to meet financial accounting, compliance audit, and trust structure requirements",
+            "Valuing stable cash flow, portfolio defensive allocation, and liquidity arrangements",
+            "Tending to long-term cooperation with the platform, strategy customization, and dedicated advisor docking"
+          ],
+          "recommendLabel": "Recommended Solutions",
+          "recommendedProducts": "Special Fund Allocation, ETF-PIPE Matching Structure,专户策略定制服务 (Dedicated Account Strategy Customization Service)",
+          "iconPath": "M3 7v10a2 2 0 002 2h14a2 2 0 002-2V9a2 2 0 00-2-2H5a2 2 0 00-2-2z"
+        }
+      ]
+    }
+  },
+  "contact": {
+    "hero": {
+      "title": "Contact Us",
+      "titleEn": "CONTACT US",
+      "description": "We look forward to building long-term cooperative relationships with you and providing professional asset management services."
+    },
+    "decorations": {
+      "leftSide": "Left Decoration Element",
+      "rightSide": "Right Decoration Element"
+    },
+    "contactInfo": {
+      "title": "Contact Information",
+      "titleEn": "CONTACT INFORMATION",
+      "description": "Welcome to contact us through the following methods, and our professional team will wholeheartedly serve you."
+    },
+    "address": {
+      "iconAlt": "Address Icon",
+      "companyName": "N Plus Capital Limited",
+      "addressLocal": "香港荃湾横窝仔街16-26号顺力工业大厦15楼04C室",
+      "companyNameEn": "N Plus Capital Limited",
+      "addressEn": "Rm 04C, 15/F, Sunwise Industrial Building,\n16-26 Wang Wo Tsai Street, Tsuen Wan, Hong Kong"
+    },
+    "phone": {
+      "number": "000 0000 0000"
+    },
+    "email": {
+      "iconAlt": "Email Icon",
+      "address": "info@npluscapital.com"
+    },
+    "serviceInfo": {
+      "title": "Service Information",
+      "titleEn": "SERVICE INFORMATION",
+      "businessHours": {
+        "title": "Business Hours",
+        "weekdays": "Monday to Friday: 09:00 - 18:00",
+        "weekend": "Saturday: 09:00 - 13:00",
+        "note": "Closed on Sundays and public holidays"
+      },
+      "customerSupport": {
+        "title": "Customer Support",
+        "hours": "Online Customer Service: 09:00 - 23:00",
+        "languages": "Supports Chinese (Traditional/Simplified), English",
+        "responseTime": "Average response time: < 3 minutes"
+      },
+      "appointment": {
+        "title": "Appointment Consultation",
+        "description": "High-net-worth clients can make appointments for dedicated advisor services",
+        "method": "Please make an appointment via email or customer service"
+      },
+      "contactNote": {
+        "title": "Before Contacting Us",
+        "description": "It is recommended that you prepare relevant questions or requirement descriptions in advance so that our professional team can more effectively assist you. We value every communication opportunity and are committed to providing you with the best service experience."
+      }
+    }
+  },
+  "certification": {
+    "hero": {
+      "title": "Regulatory Compliance",
+      "titleEn": "REGULATORY COMPLIANCE",
+      "description": "Holding formal Type 4 and Type 9 licenses from the Hong Kong SFC, strictly following regulatory requirements, and establishing a sound compliance system to provide a solid legal guarantee for clients' investment safety. We have established a professional and standardized service process system to ensure transparent and efficient investment decisions, providing full-process professional services from client needs analysis to investment execution monitoring."
+    },
+    "decorations": {
+      "leftSide": "Left Decoration Element",
+      "rightSide": "Right Decoration Element"
+    },
+    "sfcLicense": {
+      "title": "SFC Licensed Qualifications",
+      "titleEn": "SFC LICENSED QUALIFICATIONS",
+      "companyInfo": {
+        "nameLabel": "Company Name",
+        "name": "N Plus Capital Limited",
+        "licenseLabel": "SFC Licensed Institution Number",
+        "licenseNumber": "BLY077"
+      },
+      "licenseTypes": {
+        "title": "License Types and Regulatory Scope",
+        "description": "N Plus Capital Limited holds the following two categories of SFC license scopes:",
+        "types": [
+          {
+            "number": "4",
+            "title": "Type 4 (Asset Management)",
+            "description": "Asset management business, including managing client portfolios"
+          },
+          {
+            "number": "9",
+            "title": "Type 9 (Providing Advice on Collective Investment Schemes)",
+            "description": "Providing professional advice and evaluation on collective investment schemes such as funds and ETFs"
+          }
+        ]
+      },
+      "complianceStatus": {
+        "title": "Current Compliance Status",
+        "description": "Complies with the SFC's configuration requirements for relevant license qualifications. The company continues to maintain an active license status, with no records of suspension or revocation, and accepts regular supervision and review by the SFC."
+      },
+      "importance": {
+        "title": "Significance of SFC Licensing",
+        "points": [
+          {
+            "title": "Lawful and Compliant Operation",
+            "description": "Authorization from the SFC is required to carry out asset management and fund advisory business in compliance with regulations",
+            "iconPath": "M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z"
+          },
+          {
+            "title": "Professional Management Responsibility",
+            "description": "ROs are required to hold senior management positions and undertake legal responsibilities to ensure service quality",
+            "iconPath": "M17 20h5v-2a3 3 0 00-5.356-1.857M17 20H7m10 0v-2c0-.656-.126-1.283-.356-1.857M7 20H2v-2a3 3 0 015.356-1.857M7 20v-2c0-.656.126-1.283.356-1.857m0 0a5.002 5.002 0 019.288 0M15 7a3 3 0 11-6 0 3 3 0 016 0zm6 3a2 2 0 11-4 0 2 2 0 014 0zM7 10a2 2 0 11-4 0 2 2 0 014 0z"
+          },
+          {
+            "title": "Enhanced Customer Trust",
+            "description": "The SFC has strict supervision and high transparency, and the authorized license provides customer confidence",
+            "iconPath": "M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z"
+          },
+          {
+            "title": "Continuous Regulatory Assessment",
+            "description": "Regularly submit audit reports and license renewal applications to ensure long-term risk control and compliance",
+            "iconPath": "M9 19v-6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2a2 2 0 002-2zm0 0V9a2 2 0 012-2h2a2 2 0 012 2v10m-6 0a2 2 0 002 2h2a2 2 0 002-2m0 0V5a2 2 0 012-2h2a2 2 0 012 2v14a2 2 0 01-2 2h-2a2 2 0 01-2-2z"
+          }
+        ]
+      },
+      "summary": {
+        "title": "Professional Compliance, Trustworthy",
+        "description": "N Plus Capital Limited holds the BLY077 license for Asset Management (Type 4) and Collective Investment Scheme Advisory (Type 9) issued by the SFC, and is equipped with an experienced RO team, meeting regulatory standards and ensuring safe and compliant business operations."
+      }
+    },
+    "compliancePolicy": {
+      "title": "Compliance Policy Overview",
+      "titleEn": "COMPLIANCE POLICY OVERVIEW",
+      "sections": [
+        {
+          "title": "Regulatory Compliance Framework",
+          "items": [
+            "Strictly follow SFC regulatory requirements and industry best practices",
+            "Establish a sound internal control and risk management system",
+            "Regularly accept regulatory inspections and third-party audits",
+            "Continuously update compliance policies to adapt to regulatory changes"
+          ]
+        },
+        {
+          "title": "Customer Protection Measures",
+          "items": [
+            "Implement KYC (Know Your Customer) and AML (Anti-Money Laundering) procedures",
+            "Client funds are independently managed and strictly separated from company assets",
+            "Provide transparent fee structures and investment risk disclosures",
+            "Establish customer complaint handling mechanisms and dispute resolution procedures"
+          ]
+        },
+        {
+          "title": "Professional Responsibility System",
+          "items": [
+            "Designate Responsible Officers (ROs) to assume legal and regulatory responsibilities",
+            "All employees must pass relevant qualification exams and ongoing training",
+            "Establish conflict of interest identification and management mechanisms",
+            "Ensure investment advice complies with the principle of clients' best interests"
+          ]
+        },
+        {
+          "title": "Information Security and Privacy",
+          "items": [
+            "Adopt bank-level data encryption and security protection measures",
+            "Strictly control access to customer information",
+            "Regularly conduct cybersecurity assessments and penetration testing",
+            "Comply with personal data protection regulatory requirements"
+          ]
+        }
+      ],
+      "commitment": {
+        "title": "Our Compliance Commitment",
+        "description": "N Plus Capital Limited is committed to maintaining the highest standards of compliant operations to ensure all business activities meet regulatory requirements. We believe that strict compliance management is not only a legal obligation but also the best response to customer trust. We will continue to invest in the construction of a compliance system to provide clients with safe, transparent, and professional investment services."
+      }
+    }
+  },
+  "strength": {
+    "hero": {
+      "title": "Strength Demonstration",
+      "titleEn": "STRENGTH DEMONSTRATION",
+      "description": "The scale of assets under management continues to grow steadily, serving institutional investors and high-net-worth individuals, establishing a good reputation and professional status in the Hong Kong asset management market"
+    },
+    "decorations": {
+      "leftSide": "Left Decoration Element",
+      "rightSide": "Right Decoration Element"
+    },
+    "assetManagement": {
+      "title": "Asset Management Strength",
+      "titleEn": "ASSET MANAGEMENT STRENGTH",
+      "coreData": [
+        {
+          "title": "Assets Under Management",
+          "value": "Tens of Millions",
+          "unit": "USD",
+          "iconPath": "M12 8c-1.657 0-3 .895-3 2s1.343 2 3 2 3 .895 3 2-1.343 2-3 2m0-8c1.11 0 2.08.402 2.599 1M12 8V7m0 1v8m0 0v1m0-1c-1.11 0-2.08-.402-2.599-1M21 12a9 9 0 11-18 0 9 9 0 0118 0z"
+        },
+        {
+          "title": "Registered Users",
+          "value": "5,200+",
+          "unit": "Clients",
+          "iconPath": "M17 20h5v-2a3 3 0 00-5.356-1.857M17 20H7m10 0v-2c0-.656-.126-1.283-.356-1.857M7 20H2v-2a3 3 0 015.356-1.857M7 20v-2c0-.656.126-1.283.356-1.857m0 0a5.002 5.002 0 019.288 0M15 7a3 3 0 11-6 0 3 3 0 016 0zm6 3a2 2 0 11-4 0 2 2 0 014 0zM7 10a2 2 0 11-4 0 2 2 0 014 0z"
+        },
+        {
+          "title": "Professional Experience",
+          "value": "Years",
+          "unit": "Investment Advisory Experience",
+          "iconPath": "M13 7h8m0 0v8m0-8l-8 8-4-4-6 6"
+        }
+      ],
+      "teamStrength": {
+        "title": "Management Team Strength",
+        "points": [
+          {
+            "title": "Senior Investment Management",
+            "description": "CIO Ivy Xing has managed assets exceeding tens of millions of US dollars, with rich institutional-level asset management experience",
+            "iconPath": "M16 7a4 4 0 11-8 0 4 4 0 018 0zM12 14a7 7 0 00-7 7h14a7 7 0 00-7-7z"
+          },
+          {
+            "title": "Professional Advisory Background",
+            "description": "The team has many years of professional advisory experience, serving a client base including institutions and high-net-worth individual investors",
+            "iconPath": "M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"
+          }
+        ]
+      }
+    },
+    "clientDistribution": {
+      "title": "Client Quantity and Type Distribution",
+      "titleEn": "CLIENT DISTRIBUTION",
+      "description": "As of December 2024, N Plus Capital has provided professional asset management services to over 5,200 registered users.",
+      "chartTitle": "Client Type Distribution",
+      "totalUsers": "5,200+",
+      "totalUsersLabel": "Registered Users",
+      "legend": [
+        {
+          "label": "Beginner Investors",
+          "percentage": "40%",
+          "color": "#ab9064"
+        },
+        {
+          "label": "Conservative Investors",
+          "percentage": "35%",
+          "color": "#c5a572"
+        },
+        {
+          "label": "High-Net-Worth Clients",
+          "percentage": "20%",
+          "color": "#d4b485"
+        },
+        {
+          "label": "Corporate/Institutional Clients",
+          "percentage": "5%",
+          "color": "#e3c398"
+        }
+      ],
+      "details": [
+        {
+          "title": "Beginner Investors (Approx. 40%)",
+          "description": "Users who hope to obtain daily returns and have strong account liquidity, using demand deposit wealth management products.",
+          "color": "#ab9064"
+        },
+        {
+          "title": "Conservative Investors (Approx. 35%)",
+          "description": "Medium-term investors who have a balanced demand for returns and risks, participating in IPO subscriptions and structured funds.",
+          "color": "#c5a572"
+        },
+        {
+          "title": "High-Net-Worth Clients (Approx. 20%)",
+          "description": "Holding asset allocation of over $1 million, preferring equity-type allocations such as PIPE and Pre-IPO.",
+          "color": "#d4b485"
+        },
+        {
+          "title": "Corporate/Institutional Clients (Approx. 5%)",
+          "description": "Including small and medium enterprises, family trusts, and institutional funds, focusing on long-term stable allocation and compliance reporting.",
+          "color": "#e3c398"
+        }
+      ]
+    },
+    "marketPosition": {
+      "title": "Market Position and Professional Recognition",
+      "points": [
+        {
+          "title": "Hong Kong Market Position",
+          "description": "Established a good reputation and professional status in the Hong Kong asset management market",
+          "iconPath": "M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"
+        },
+        {
+          "title": "Steady Growth",
+          "description": "The scale of assets under management continues to grow steadily, and customer trust continues to increase",
+          "iconPath": "M13 10V3L4 14h7v7l9-11h-7z"
+        },
+        {
+          "title": "Diversified Services",
+          "description": "Services cover institutional investors and high-net-worth individual clients",
+          "iconPath": "M17 20h5v-2a3 3 0 00-5.356-1.857M17 20H7m10 0v-2c0-.656-.126-1.283-.356-1.857M7 20H2v-2a3 3 0 015.356-1.857M7 20v-2c0-.656.126-1.283.356-1.857m0 0a5.002 5.002 0 019.288 0M15 7a3 3 0 11-6 0 3 3 0 016 0zm6 3a2 2 0 11-4 0 2 2 0 014 0zM7 10a2 2 0 11-4 0 2 2 0 014 0z"
+        }
+      ]
+    }
+  },
+  "team": {
+    "hero": {
+      "title": "Professional Team",
+      "titleEn": "PROFESSIONAL TEAM",
+      "description": "Our team always adheres to the customer-centric service concept, providing personalized professional consulting and comprehensive investment support to ensure that customer rights are fully protected and respected"
+    },
+    "decorations": {
+      "leftSide": "Left Decoration Element",
+      "rightSide": "Right Decoration Element"
+    },
+    "overview": {
+      "title": "Our Team",
+      "subtitle": "Professionalism is the foundation of trust"
+    },
+    "coreManagement": {
+      "title": "Core Management (Responsible Officers)",
+      "sfcNumberLabel": "SFC Registration Number",
+      "members": [
+        {
+          "name": "郑伟良（Henry Cheng）",
+          "position": "Director of Asset Management",
+          "sfcNumber": "ABH991",
+          "details": [
+            "With over 15 years of financial industry experience, having worked in multiple international investment banks and family offices",
+            "Specialized in cross-border asset allocation, IPO project underwriting, and structured fund management",
+            "Currently serves as the head of N Plus Capital's asset management business (Type 4 & 9 license holder)"
+          ]
+        },
+        {
+          "name": "黄秋云（Qiuyun Huang）",
+          "position": "Head of Risk Control and Products",
+          "sfcNumber": "BOL017",
+          "details": [
+            "Former senior product manager at a leading Asian securities company, leading PIPE private equity and ETF portfolio building strategies",
+            "Holds a CFA (Chartered Financial Analyst) certification and Hong Kong local fund sales certification",
+            "Responsible for platform risk control mechanisms, insurance configuration, and pre-investment due diligence review"
+          ]
+        }
+      ]
+    },
+    "formerMembers": {
+      "title": "Former Key Members",
+      "members": [
+        {
+          "name": "Helen Lo",
+          "position": "Former Director of Asset Management",
+          "responsibility": "Responsible for portfolio investment and investment strategies",
+          "tenure": "Tenure: October 2017 – May 2020"
+        },
+        {
+          "name": "Ivy Xing",
+          "position": "Former Chief Investment Officer",
+          "responsibility": "Managed assets exceeding tens of millions of US dollars",
+          "tenure": "Tenure: May 2018 – July 2019"
+        },
+        {
+          "name": "Chelsea Mak",
+          "position": "Company Officer",
+          "responsibility": "Responsible for compliance and external regulatory docking",
+          "tenure": "Responsible Officer"
+        }
+      ]
+    },
+    "teamStructure": {
+      "title": "Team Structure",
+      "titleEn": "TEAM STRUCTURE",
+      "departments": [
+        {
+          "name": "投资研究团队",
+          "nameEn": "Investment & Research",
+          "iconPath": "M9 19v-6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2a2 2 0 002-2zm0 0V9a2 2 0 012-2h2a2 2 0 012 2v10m-6 0a2 2 0 002 2h2a2 2 0 002-2m0 0V5a2 2 0 012-2h2a2 2 0 012 2v14a2 2 0 01-2 2h-2a2 2 0 01-2-2z",
+          "responsibilities": [
+            "Composed of senior researchers from investment banks, securities firms, trust companies, and asset management institutions",
+            "Specialized in primary equity market analysis (Pre-IPO), industry rotation strategies, valuation modeling, and risk scenario simulation",
+            "Most members have international financial institution backgrounds and are familiar with Hong Kong and Southeast Asian capital markets"
+          ]
+        },
+        {
+          "name": "风控与法务顾问",
+          "nameEn": "Risk & Compliance",
+          "iconPath": "M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z",
+          "responsibilities": [
+            "Equipped with full-time Compliance Officers and cooperating with external law firms",
+            "Responsible for platform AML/KYC reviews, transaction anomaly monitoring, SFC reporting, and regulatory response",
+            "Regularly conducts product risk reassessments and policy updates to ensure compliant operations"
+          ]
+        },
+        {
+          "name": "客户服务团队",
+          "nameEn": "Client Success Team",
+          "iconPath": "M17 20h5v-2a3 3 0 00-5.356-1.857M17 20H7m10 0v-2c0-.656-.126-1.283-.356-1.857M7 20H2v-2a3 3 0 015.356-1.857M7 20v-2c0-.656.126-1.283.356-1.857m0 0a5.002 5.002 0 019.288 0M15 7a3 3 0 11-6 0 3 3 0 016 0zm6 3a2 2 0 11-4 0 2 2 0 014 0zM7 10a2 2 0 11-4 0 2 2 0 014 0z",
+          "responsibilities": [
+            "All members have financial backgrounds and are capable of serving in Chinese (Simplified/Traditional) and English",
+            "Provides daily online service (09:00–23:00), covering the entire process of account opening, fund storage, position building, and withdrawal",
+            "Advisory service-oriented, supporting one-on-one product explanations, fund path planning, and policy verification"
+          ]
+        }
+      ]
+    },
+    "teamAdvantages": {
+      "title": "Team Advantages",
+      "advantages": [
+        {
+          "title": "Professional Qualifications",
+          "description": "Team members all possess relevant financial certifications and rich industry experience",
+          "iconPath": "M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"
+        },
+        {
+          "title": "Global Vision",
+          "description": "With international financial institution backgrounds, familiar with global capital market operations",
+          "iconPath": "M13 10V3L4 14h7v7l9-11h-7z"
+        },
+        {
+          "title": "Customer First",
+          "description": "Always adhering to a customer-centric approach, providing personalized professional services",
+          "iconPath": "M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z"
+        }
+      ]
+    }
+  },
+  "footer": {
+    "address": {
+      "title": "Address",
+      "titleEn": "ADDRESS",
+      "companyName": "N Plus Capital Limited",
+      "addressLocal": "香港荃湾横窝仔街16-26号顺力工业大厦15楼04C室",
+      "companyNameEn": "N Plus Capital Limited",
+      "addressEn": "Room 04C, 15/F, Shun Lee Industrial Building, 16-26 Wang Wo Tsai Street, Tsuen Wan, Hong Kong"
+    },
+    "contact": {
+      "title": "Contact",
+      "titleEn": "CONTACT",
+      "email": "info@npluscapital.com"
+    },
+    "socialMedia": {
+      "title": "Social Media",
+      "titleEn": "SOCIAL MEDIA",
+      "linkedin": "#",
+      "linkedinLabel": "LinkedIn Link"
+    },
+    "legal": {
+      "termsOfUse": "Terms of Use",
+      "privacyPolicy": "Privacy Policy",
+      "copyright": "© N Plus Capital Limited. All rights reserved."
+    },
+    "backToTop": "Back to Top"
+  }
+}

@@ -3,7 +3,8 @@
 import Image from "next/image";
 import { getMessages } from "@/lib/i18n";
 
-export default function Team({ locale }) {
+export default function Team({ params }) {
+  const locale = params.locale;
   const messages = getMessages(locale);
   const teamMsg = messages.team;
 

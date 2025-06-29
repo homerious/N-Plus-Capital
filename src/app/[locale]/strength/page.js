@@ -3,7 +3,8 @@
 import Image from "next/image";
 import { getMessages } from "@/lib/i18n";
 
-export default function Strength({ locale }) {
+export default function Strength({ params }) {
+  const locale = params.locale;
   const messages = getMessages(locale);
   const strengthMsg = messages.strength;
 

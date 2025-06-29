@@ -3,7 +3,8 @@
 import Image from "next/image";
 import { getMessages } from "@/lib/i18n";
 
-export default function About({ locale }) {
+export default function About({ params }) {
+  const locale = params.locale;
   const messages = getMessages(locale);
   const aboutMsg = messages.about;
 
