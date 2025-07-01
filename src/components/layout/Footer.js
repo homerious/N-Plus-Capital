@@ -125,7 +125,7 @@ export default function Footer({ locale }) {
 
         {/* Footer Bottom */}
         <div className="flex flex-col sm:flex-row justify-between items-center gap-4 sm:gap-0 text-sm sm:text-base">
-          <div className="left order-2 sm:order-1">
+          <div className="left order-2 sm:order-1 hidden">
             <span className="cursor-pointer hover:underline transition-all duration-200">
               {footerMsg.legal.termsOfUse}
             </span>
